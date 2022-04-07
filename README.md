@@ -279,46 +279,11 @@ Refer to [ThinkPad X1 Carbon Gen 8 Specs](https://psref.lenovo.com/syspool/Sys/P
 
 <details><summary><strong>UEFI SETTINGS</strong></summary>
 <br>
-	
-**Config**
-
-- **Keyboard/Mouse**
-  - `Trackpoint` **Enabled**
-  - `Trackpad` **Enabled**
-- **Display**
-  - `Boot Display Device` **ThinkPad LCD**
-  - `Total Graphics Memory` **256MB**
-  - `Boot Time Extension` **Disabled**
-- **CPU**
-  - `Intel Hyper-Threading Technology` **Enabled**
-- **Thunderbolt**
-  - `Thunderbolt BIOS Assist Mode` **Disabled**
-  - `Security Level` **No Security**
-  - `Support in Pre Boot Environment -> Thunderbolt(TM) device` **Disabled**
 
 **Security**
 
-- **Memory Protection**
-  - `Execution Prevention` **Enabled**
-- **Virtualization**
-  - `Kernel DMA Protection` **Disabled**
-  - `Intel Virtualization Technology` **Enabled**
-  - `Intel VT-d Feature` **Disabled**
-  - `Enhanced Windows Biometric Security` **Disabled**
-- **I/O Port Access**
-  - `Wireless WAN` **Disabled**
 - **Secure Boot**
   - `Secure Boot` **Disabled**
-- **Intel SGX**
-  - `Intel SGX Control` **Disabled**
-- **Device Guard**
-  - `Device Guard` **Disabled**
-
-**Startup**
-
-- `UEFI/Legacy Boot` **UEFI Only**
-- `CSM Support` **No**
-- `Boot Mode` **Quick**
 
 </details>  
 
