@@ -199,26 +199,26 @@ Refer to [ThinkPad X1 Carbon 7th Gen Specs](https://psref.lenovo.com/syspool/Sys
 | Kext                   | Version |
 | ---------------------- | ------- |
 | AirportItlwm | 2.1.0 |
-| AppleALC | 1.6.8 |
+| AppleALC | 1.7.0 |
 | BlueToolFixup | 2.6.1 |
-| BrightnessKeys | 2.6.1 |
+| BrightnessKeys | 1.0.2 |
 | CPUFriend | 1.2.4 |
-| CPUFriendDataProvider | 1.0.0 |
+| CPUFriendDataProvider |  |
 | ECEnabler | 1.0.2 |
 | IntelBluetoothFirmware | 2.1.0 |
 | IntelMausi | 1.0.7 |
-| Lilu | 1.5.9 |
+| Lilu | 1.6.0 |
 | NVMeFix | 1.0.9 |
 | SMCBatteryManager | 1.2.8 |
 | SMCProcessor | 1.2.8 |
 | SMCSuperIO | 1.2.8 |
-| USBToolBox | 1.0.0 |
-| UTBMap | 1.0.0 |
-| VirtualSMC | 1.2.8 |
-| VoodooI2C | 2.6.5 |
+| USBToolBox | 0.1.1 |
+| UTBMap |  |
+| VirtualSMC | 1.2.9 |
+| VoodooI2C | 2.7 |
 | VoodooI2CHID | 2.6.5 |
-| VoodooPS2Controller | 2.2.7 |
-| WhateverGreen | 1.5.6 |
+| VoodooPS2Controller | 2.2.8 |
+| WhateverGreen | 1.5.8 |
 
 </details>
 
