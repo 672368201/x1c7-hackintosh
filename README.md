@@ -1,1 +1,1 @@
-# OpenCore for macOS on ThinkPad X1 Carbon 7th Generation, Model 20R1-0005CD
+# OpenCore for macOS on ThinkPad X1 Carbon 7th 20R1-0005CD
