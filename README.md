@@ -144,18 +144,18 @@ It should work and your X1C8 should boot and work fine. **You will at minimum ne
 <details>
 <summary><strong>HARDWARE</strong></summary>
 
-### Lenovo ThinkPad X1 Carbon Gen 8 (Core i7)
+### Lenovo ThinkPad X1 Carbon 7th
 
 These are relevant components on my machine which may differ from yours, keep these in mind as you will need to adjust accordingly, depending on your machine's configuration.
 
 | Category  | Component                                       | Note                                                         |
 | --------- | ----------------------------------------------- | ------------------------------------------------------------ |
-| Type | 20U9 | - |
-| CPU | Intel Core i7-10510U | - |
-| GPU | Intel UHD Graphics | - |
-| SSD | WDC PC SN720 SDAQNTW-512G-1001 | Swapped for better compatibility, the laptop came with a Toshiba SSD |
+| Type | 20R1-0005CD | - |
+| CPU | Intel® Core™ i7-10710U | - |
+| GPU | Intel UHD Graphics 620 | - |
+| SSD | KXG6AZNV512G TOSHIBA |
 | Screen | 14" FHD - 1920 x 1080 | - |
-| Memory | 8GB / 2133MHz LPDDR3 | - |
+| Memory | 16GB / 2133MHz LPDDR3 | - |
 | Battery | Integrated Li-Polymer 51Wh | - |
 | Camera | 720p Camera | - |
 | Wi-Fi & BT | Intel Wi-Fi 6 AX201 | - |
@@ -173,9 +173,8 @@ Refer to [ThinkPad X1 Carbon Gen 8 Specs](https://psref.lenovo.com/syspool/Sys/P
 
 | Component      | Version |
 | -------------- | ------- |
-| OpenCore | 0.7.7 |
-| macOS Monterey | 12.2 |
-| Windows 11 | 21H2 |
+| OpenCore | 0.7.9 |
+| macOS Monterey | 12.2.1 |
 
 </details>
 
