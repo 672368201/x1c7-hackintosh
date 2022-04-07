@@ -150,15 +150,15 @@ These are relevant components on my machine which may differ from yours, keep th
 
 | Category  | Component                                       | Note                                                         |
 | --------- | ----------------------------------------------- | ------------------------------------------------------------ |
-| Type | 20R1-0005CD | - |
+| Model | 20R1-0005CD | - |
 | CPU | Intel® Core™ i7-10710U | - |
 | GPU | Intel UHD Graphics 620 | - |
-| SSD | KXG6AZNV512G TOSHIBA | - |
-| Screen | 14" FHD - 1920 x 1080 | - |
+| Storage | KXG6AZNV512G TOSHIBA | - |
+| Monitor | 14" FHD - 1920 x 1080 | - |
 | Memory | 16GB / 2133MHz LPDDR3 | - |
 | Battery | Integrated Li-Polymer 51Wh | - |
-| Camera | 720p Camera | - |
-| Wi-Fi & BT | Intel® Wireless-AC 9560 | - |
+| Webcam | 720p Camera | - |
+| Wireless | Intel® Wireless-AC 9560 | - |
 | Input | PS2 Keyboard & Synaptics I2C HID TrackPad | - |
 | Ports | 2x USB 3.1 Gen 1 (Right USB Always On)</br> 2x USB 3.1 Type-C Gen 2 / Thunderbolt 3 (Power Delivery and DisplayPort) [Max 5120x2880 @60Hz]</br> HDMI 1.4 (Max 4096x2160 @24Hz) | - |
 
@@ -174,7 +174,7 @@ Refer to [ThinkPad X1 Carbon 7th Gen Specs](https://psref.lenovo.com/syspool/Sys
 | Component      | Version |
 | -------------- | ------- |
 | OpenCore | 0.7.9 |
-| macOS Monterey | 12.2.1 |
+| macOS Monterey | 12.2.1 (21D62) |
 
 </details>
 
@@ -201,6 +201,7 @@ Refer to [ThinkPad X1 Carbon 7th Gen Specs](https://psref.lenovo.com/syspool/Sys
 | AirportItlwm | 2.1.0 |
 | AppleALC | 1.6.8 |
 | BlueToolFixup | 2.6.1 |
+| BrightnessKeys | 2.6.1 |
 | CPUFriend | 1.2.4 |
 | CPUFriendDataProvider | 1.0.0 |
 | ECEnabler | 1.0.2 |
@@ -211,7 +212,8 @@ Refer to [ThinkPad X1 Carbon 7th Gen Specs](https://psref.lenovo.com/syspool/Sys
 | SMCBatteryManager | 1.2.8 |
 | SMCProcessor | 1.2.8 |
 | SMCSuperIO | 1.2.8 |
-| USBMap | 1.0.0 |
+| USBToolBox | 1.0.0 |
+| UTBMap | 1.0.0 |
 | VirtualSMC | 1.2.8 |
 | VoodooI2C | 2.6.5 |
 | VoodooI2CHID | 2.6.5 |
