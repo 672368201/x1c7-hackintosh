@@ -216,7 +216,7 @@ Refer to [ThinkPad X1 Carbon 7th Gen Specs](https://psref.lenovo.com/syspool/Sys
 | UTBMap |  |
 | VirtualSMC | 1.2.9 |
 | VoodooI2C | 2.7 |
-| VoodooI2CHID | 2.6.5 |
+| VoodooI2CHID | 2.7 |
 | VoodooPS2Controller | 2.2.8 |
 | WhateverGreen | 1.5.8 |
 
