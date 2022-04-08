@@ -30,14 +30,14 @@ Should you find an error, or improve anything, be it in the config itself or in 
 <summary><strong>WORKING ✅</strong></summary>
 <br>
 
-> ### Video and Audio
+> ### Audio and Video
 | Feature                              | Status | Dependency          | Remarks                      |
 | :----------------------------------- | ------ | ------------------- | ---------------------------- |
-| Full Graphics Acceleration (QE/CI) | ✅ | `WhateverGreen.kext` & `AAPL,ig-platform-id` = 0500A63E & `device-id` = A63E0000 | To fake Intel Iris Plus Graphics 645, MacBookPro16,3's native iGPU |
 | Audio Output | ✅ | `AppleALC.kext` with Layout ID = 71 | - |
 | Audio Speakers | ✅ | `AppleALC.kext` with Layout ID = 71 | You have to manually aggregate the two output using "Audio MIDI Setup" to have 4 speakers working |
 | Audio Input | ✅ | `AppleALC.kext` with Layout ID = 71 | Headset microphone is inconsistent and needs more testing |
 | Automatic Headphone Output Switching | ✅ | `AppleALC.kext` with Layout ID = 71 | - |
+| Full Graphics Acceleration (QE/CI) | ✅ | `WhateverGreen.kext` & `AAPL,ig-platform-id` = 0500A63E & `device-id` = A63E0000 | To fake Intel Iris Plus Graphics 645, MacBookPro16,3's native iGPU |
 
 > ### Power Management
 | Feature                              | Status | Dependency          | Remarks                      |
@@ -60,7 +60,7 @@ Should you find an error, or improve anything, be it in the config itself or in 
 | USB Power Properties in macOS | ✅ | - | - |
 | ThinkPad USB-C Docking Station | ✅ | - | Work smoothly |
 
-> ### Display, TrackPad, TrackPoint, Keyboard, and Webcam
+> ### Peripherals
 | Feature                              | Status | Dependency          | Remarks                      |
 | :----------------------------------- | ------ | ------------------- | ---------------------------- |
 | Brightness Adjustments | ✅ | `WhateverGreen.kext`, `SSDT-PNLF.aml`, `enable-backlight-smoother` property, and `BrightnessKeys.kext`| `enable-backlight-smoother` property is optional for smoother birghtness adjustments |
