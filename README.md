@@ -1,4 +1,4 @@
-# OpenCore for macOS on ThinkPad X1 Carbon 7th 20R1-0005CD
+# OpenCore for macOS on ThinkPad X1 Carbon 7th, 20R1-0005CD
 
 OpenCore-based EFI for Lenovo Thinkpad X1 Carbon 7th Generation | Model 20R1-0005CD
 
@@ -8,9 +8,9 @@ OpenCore-based EFI for Lenovo Thinkpad X1 Carbon 7th Generation | Model 20R1-000
 [![OpenCore](https://img.shields.io/badge/OpenCore-0.7.9-blue.svg)](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.7.9)
 [![Model](https://img.shields.io/badge/Model-20R1-red)](https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadx1/x1-carbon-gen-7/22tp2txx17g)
 
-This repository is forked from several X1C7-Hackintosh repositories (See **OTHER REPOSITORIES**).
+This repository is forked from several X1C7-Hackintosh repositories (See **REFERENCES**).
 
-This README file is modified from [HJebbour/ThinkPad-X1C8-Hackintosh](https://github.com/HJebbour/ThinkPad-X1C8-Hackintosh) (See **OTHER REPOSITORIES**).
+This README file is modified from [HJebbour/ThinkPad-X1C8-Hackintosh](https://github.com/HJebbour/ThinkPad-X1C8-Hackintosh) (See **REFERENCES**).
 
 **DISCLAIMER:**
 As you embark on your Hackintosh journey you are encouraged to **READ** the entire README and [Dortania](https://dortania.github.io/getting-started/) guides before you start.
@@ -258,7 +258,7 @@ Refer to [ThinkPad X1 Carbon (7th Gen) Specs](https://psref.lenovo.com/syspool/S
 </details>
 
 <details>
-<summary><strong>OTHER REPOSITORIES</strong></summary>
+<summary><strong>REFERENCES</strong></summary>
 <br>
 
 - X1C8-Hackintosh repositories:
