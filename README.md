@@ -30,7 +30,7 @@ Should you find an error, or improve anything, be it in the config itself or in 
 <summary><strong>WORKING ✅</strong></summary>
 <br>
 
-> ### Audio and Video
+> ### Multimedia
 | Feature                              | Status | Dependency          | Remarks                      |
 | :----------------------------------- | ------ | ------------------- | ---------------------------- |
 | Audio Output | ✅ | `AppleALC.kext` with Layout ID = 71 | - |
@@ -39,7 +39,7 @@ Should you find an error, or improve anything, be it in the config itself or in 
 | Automatic Headphone Output Switching | ✅ | `AppleALC.kext` with Layout ID = 71 | - |
 | Full Graphics Acceleration (QE/CI) | ✅ | `WhateverGreen.kext` & `AAPL,ig-platform-id` = 0500A63E & `device-id` = A63E0000 | To fake Intel Iris Plus Graphics 645, MacBookPro16,3's native iGPU |
 
-> ### Power Management
+> ### Power
 | Feature                              | Status | Dependency          | Remarks                      |
 | :----------------------------------- | ------ | ------------------- | ---------------------------- |
 | Battery | ✅ | `ECEnabler.kext` | - |
