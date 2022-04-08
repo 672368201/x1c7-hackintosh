@@ -301,7 +301,7 @@ Refer to [ThinkPad X1 Carbon (7th Gen) Specs](https://psref.lenovo.com/syspool/S
 <details><summary><strong>SMBIOS</strong></summary>
 <br>
 
-Use [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) to create your own serial number based off of your preferred model.
+Use [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) to create your own PlatformInfo based on your preferred model.
 
 - MacBookPro16,3 -`What I used`
 - MacBookPro16,2 -`Used by others`
