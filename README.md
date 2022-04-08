@@ -126,7 +126,7 @@ It should work and your X1C7 should boot and work fine. **You will at minimum ne
 > **NOTE** if you simply wish to copy my EFI please do the following:
 >
 >1. [Generate SMBIOS values](https://dortania.github.io/OpenCore-Install-Guide/config-laptop.plist/coffee-lake-plus.html#nvram) and add them in the config.plist (Use MacBookPro16,3)
->2. Ensure the value of `showpicker` is  `true` in the config.plist file to provide the opencore menu when booting. 
+>2. Ensure the value of `ShowPicker` is  `true` in the config.plist file to provide the opencore menu when booting. 
 >3. Prepare your install [USB](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/)
 >4. Move the entire EFI folder (with your modifications) to the proper partition on your [USB](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/mac-install.html#setting-up-opencore-s-efi-environment) (or [SSD](https://dortania.github.io/OpenCore-Post-Install/universal/oc2hdd.html) once the install is complete).
 >5. [Install](https://dortania.github.io/OpenCore-Install-Guide/installation/installation-process.html#double-checking-your-work) - You'll need to select F12 to get the boot menu options and **boot from the USB each time the computer restarts** until you've copied the EFI folder onto the hard drive. You may also need to select the correct boot option during install.
@@ -333,7 +333,7 @@ Use [one-key-hidpi](https://github.com/xzhih/one-key-hidpi) to simulate macOS Hi
 <summary><strong>POWER MANAGEMENT</strong></summary>
 <br>
 
-Generate CPUFriendDataProvider for your machine [here](https://github.com/fewtarius/CPUFriendFriend) or use those I've provided. Highly recommended that you use power management.
+Use [CPUFriendFriend](https://github.com/corpnewt/CPUFriendFriend) to generate CPUFriendDataProvider.kext for your machine or use those I've provided. Highly recommended that you use power management.
 
 </details>
 
