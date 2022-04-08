@@ -271,6 +271,18 @@ Refer to [ThinkPad X1 Carbon (7th Gen) Specs](https://psref.lenovo.com/syspool/S
 
 ## Before Installation
 
+<details><summary><strong>SMBIOS</strong></summary>
+<br>
+
+Use [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) to create your own serial number based off of your preferred model.
+
+- MacBookPro16,3 -`What I used`
+- MacBookPro16,2 -`Used by others`
+
+**Note:** If you use a different SMBIOS model than the MacbookPro16,3 that I've used. The provided USB mapping will not work.  You will need to edit the `UTBMap.kext` file.  You can right click on the file and select **Show Package Contents**.  From there you can open the Info.plist file in ProperTree and change MacBookPro16,3 to whatever Model ID you've chosen. This should provide a working UTBMap.kext.
+
+</details>
+
 <details><summary><strong>UEFI SETTINGS</strong></summary>
 <br>
 
@@ -315,19 +327,7 @@ To improve the Trackpad in macOS, you need to enable `Tap to click` in `System P
 	
 Use [one-key-hidpi](https://github.com/xzhih/one-key-hidpi) to simulate macOS HiDPI on a non-retina display, and have a "Native" Scaled in `System Preferences -> Displays`.
 
-</details>  
-
-<details><summary><strong>SMBIOS</strong></summary>
-<br>
-
-Use [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) to create your own serial # based off of your preferred model.
-
-- MacBookPro16,3 -`What I used`
-- MacBookPro16,2 -`Used by others`
-
-**Note:** If you use a different SMBIOS model than the MacbookPro16,3 that I've used. The provided USB mapping will not work.  You will need to edit the `USBMap.kext` file.  You can right click on the file and select **Show Package Contents**.  From there you can open the Info.plist file in ProperTree and change MacBookPro16,3 to whatever Model ID you've chosen. This should provide a working USBMap.kext.
-
-</details> 
+</details>   
 
 <details>  
 <summary><strong>POWER MANAGEMENT</strong></summary>
