@@ -201,6 +201,18 @@ Refer to [ThinkPad X1 Carbon (7th Gen) Specs](https://psref.lenovo.com/syspool/S
 
 </details>
 
+<details><summary><strong>UEFI DRIVERS</strong></summary>
+<br>
+
+|    Component    | Version           |
+| --------------- | ----------------- |
+| AudioDxe.efi | OpenCorePkg 0.7.9 |
+| OpenCanopy.efi | OpenCorePkg 0.7.9 |
+| OpenHfsPlus.efi | OpenCorePkg 0.7.9 |
+| OpenRuntime.efi | OpenCorePkg 0.7.9 |
+
+</details>
+
 <details>
 <summary><strong>ACPI</strong></summary>
 <br>
@@ -242,18 +254,6 @@ Refer to [ThinkPad X1 Carbon (7th Gen) Specs](https://psref.lenovo.com/syspool/S
 | VoodooI2CHID.kext | 2.7 |
 | VoodooPS2Controller.kext | 2.2.8 |
 | WhateverGreen.kext | 1.5.8 |
-
-</details>
-
-<details><summary><strong>UEFI DRIVERS</strong></summary>
-<br>
-
-|    Component    | Version           |
-| --------------- | ----------------- |
-| AudioDxe.efi | OpenCorePkg 0.7.9 |
-| OpenCanopy.efi | OpenCorePkg 0.7.9 |
-| OpenHfsPlus.efi | OpenCorePkg 0.7.9 |
-| OpenRuntime.efi | OpenCorePkg 0.7.9 |
 
 </details>
 
