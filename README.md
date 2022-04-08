@@ -184,11 +184,11 @@ Refer to [ThinkPad X1 Carbon (7th Gen) Specs](https://psref.lenovo.com/syspool/S
 
 | Component              |
 | ---------------------- |
-| SSDT-AWAC |
-| SSDT-PLUG |
-| SSDT-PNLF |
-| SSDT-USBX |
-| SSDT-XOSI |
+| SSDT-AWAC.aml |
+| SSDT-PLUG.aml |
+| SSDT-PNLF.aml |
+| SSDT-USBX.aml |
+| SSDT-XOSI.aml |
 
 </details>
 
@@ -198,27 +198,27 @@ Refer to [ThinkPad X1 Carbon (7th Gen) Specs](https://psref.lenovo.com/syspool/S
 
 | Kext                   | Version |
 | ---------------------- | ------- |
-| AirportItlwm | 2.1.0 |
-| AppleALC | 1.7.0 |
-| BlueToolFixup | 2.6.1 |
-| BrightnessKeys | 1.0.2 |
-| CPUFriend | 1.2.4 |
-| CPUFriendDataProvider |  |
-| ECEnabler | 1.0.2 |
-| IntelBluetoothFirmware | 2.1.0 |
-| IntelMausi | 1.0.7 |
-| Lilu | 1.6.0 |
-| NVMeFix | 1.0.9 |
-| SMCBatteryManager | 1.2.8 |
-| SMCProcessor | 1.2.8 |
-| SMCSuperIO | 1.2.8 |
-| USBToolBox | 0.1.1 |
-| UTBMap |  |
-| VirtualSMC | 1.2.9 |
-| VoodooI2C | 2.7 |
-| VoodooI2CHID | 2.7 |
-| VoodooPS2Controller | 2.2.8 |
-| WhateverGreen | 1.5.8 |
+| AirportItlwm.kext | 2.1.0 |
+| AppleALC.kext | 1.7.0 |
+| BlueToolFixup.kext | 2.6.1 |
+| BrightnessKeys.kext | 1.0.2 |
+| CPUFriend.kext | 1.2.4 |
+| CPUFriendDataProvider.kext |  |
+| ECEnabler.kext | 1.0.2 |
+| IntelBluetoothFirmware.kext | 2.1.0 |
+| IntelMausi.kext | 1.0.7 |
+| Lilu.kext | 1.6.0 |
+| NVMeFix.kext | 1.0.9 |
+| SMCBatteryManager.kext | 1.2.8 |
+| SMCProcessor.kext | 1.2.8 |
+| SMCSuperIO.kext | 1.2.8 |
+| USBToolBox.kext | 0.1.1 |
+| UTBMap.kext |  |
+| VirtualSMC.kext | 1.2.9 |
+| VoodooI2C.kext | 2.7 |
+| VoodooI2CHID.kext | 2.7 |
+| VoodooPS2Controller.kext | 2.2.8 |
+| WhateverGreen.kext | 1.5.8 |
 
 </details>
 
