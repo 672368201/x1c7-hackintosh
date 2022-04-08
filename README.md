@@ -9,6 +9,7 @@ OpenCore-based EFI for Lenovo Thinkpad X1 Carbon 7th Generation | Model 20R1-000
 [![Model](https://img.shields.io/badge/Model-20R1-red)](https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadx1/x1-carbon-gen-7/22tp2txx17g)
 
 This repository is forked from several X1C7-Hackintosh repositories (See **OTHER REPOSITORIES**).
+
 This README file is modified from [HJebbour/ThinkPad-X1C8-Hackintosh](https://github.com/HJebbour/ThinkPad-X1C8-Hackintosh) (See **OTHER REPOSITORIES**).
 
 **DISCLAIMER:**
@@ -260,6 +261,9 @@ Refer to [ThinkPad X1 Carbon (7th Gen) Specs](https://psref.lenovo.com/syspool/S
 <summary><strong>OTHER REPOSITORIES</strong></summary>
 <br>
 
+- X1C8-Hackintosh repositories:
+  - [HJebbour/ThinkPad-X1C8-Hackintosh](https://github.com/HJebbour/ThinkPad-X1C8-Hackintosh)
+	
 - X1C7-Hackintosh repositories:
   - [suhrmann/x1c7-hackintosh](https://github.com/suhrmann/x1c7-hackintosh)
   - [aidanchandra/x1c7-hackintosh](https://github.com/aidanchandra/x1c7-hackintosh)
