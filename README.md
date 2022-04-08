@@ -216,7 +216,7 @@ Refer to [ThinkPad X1 Carbon (7th Gen) Specs](https://psref.lenovo.com/syspool/S
 </details>
 
 <details>
-<summary><strong>KEXT</strong></summary>
+<summary><strong>KERNEL EXTENSION</strong></summary>
 <br>
 
 | Component              | Version |
