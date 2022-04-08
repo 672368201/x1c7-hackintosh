@@ -173,7 +173,7 @@ Refer to [ThinkPad X1 Carbon (7th Gen) Specs](https://psref.lenovo.com/syspool/S
 
 | Component      | Version |
 | -------------- | ------- |
-| OpenCore | 0.7.9 Release |
+| OpenCore | 0.7.9 (Release) |
 | macOS Monterey | 12.2.1 (21D62) |
 
 </details>
@@ -314,7 +314,7 @@ Pick your keyboard layout here:
 <details><summary><strong>TRACKPAD</strong></summary>
 <br>
 
-To improve the Trackpad in macOS, you have to disable `Force Click and haptic feedback` in `System Preferences -> Trackpad`
+To improve the Trackpad in macOS, you need to enable `Tap to click` in `System Preferences -> Trackpad`
 
 </details>  
 
