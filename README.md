@@ -10,7 +10,7 @@ OpenCore-based EFI for Lenovo ThinkPad X1 Carbon 7th Generation | Model 20R1-000
 
 This repository is forked from several X1C Hackintosh repositories (See **REFERENCES**).
 
-This README file is modified from [HJebbour/ThinkPad-X1C8-Hackintosh](https://github.com/HJebbour/ThinkPad-X1C8-Hackintosh).
+This README file is modified from [HJebbour/ThinkPad-X1C8-Hackintosh](https://github.com/HJebbour/ThinkPad-X1C8-Hackintosh/blob/main/README.md).
 
 **DISCLAIMER:**
 As you embark on your Hackintosh journey you are encouraged to **READ** the entire README and [Dortania](https://dortania.github.io/getting-started/) guides before you start.
