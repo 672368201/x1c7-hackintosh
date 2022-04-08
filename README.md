@@ -1,5 +1,27 @@
 # OpenCore for macOS on ThinkPad X1 Carbon 7th 20R1-0005CD
 
+OpenCore-based EFI for Lenovo Thinkpad X1 Carbon 7th Generation | Model 20R1-0005CD
+
+**Status: Work In Progress | Stable | Daily driver**
+
+[![macOS](https://img.shields.io/badge/macOS-Monterey-blueviolet.svg)](https://www.apple.com/macos/monterey/)
+[![OpenCore](https://img.shields.io/badge/OpenCore-0.7.9-blue.svg)](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.7.9)
+[![Model](https://img.shields.io/badge/Model-20R1-red)](https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadx1/x1-carbon-gen-7/22tp2txx17g)
+
+This repository is forked from several X1C7-Hackintosh repositories (See **OTHER REPOSITORIES**)
+This README file is modified from several X1C7-Hackintosh repositories (See **OTHER REPOSITORIES**)
+
+**DISCLAIMER:**
+As you embark on your Hackintosh journey you are encouraged to **READ** the entire README and [Dortania](https://dortania.github.io/getting-started/) guides before you start.
+
+This X1C7 Hackintosh project aims to be an all-in-one maintained hub for Opencore-based hackintoshes on the ThinkPad X1 Carbon 7th. In short, this X1C7-Hackintosh is very stable and is currently my daily driver. I fully recommend this project to anyone looking for a MacBook alternative.
+
+You can find a wealth of knowledge on [Reddit](https://www.reddit.com/r/hackintosh/), [TonyMacX86](https://www.tonymacx86.com) or [Google](https://www.google.com).
+
+Should you find an error, or improve anything, be it in the config itself or in the my documentation, please consider opening an issue or a pull request to contribute.
+
+**I am not responsible for any damages you may cause.**
+
 ## Summary
 
 <details>  
