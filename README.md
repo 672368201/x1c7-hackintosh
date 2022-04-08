@@ -171,7 +171,7 @@ Refer to [ThinkPad X1 Carbon (7th Gen) Specs](https://psref.lenovo.com/syspool/S
 <summary><strong>SOFTWARE</strong></summary>
 <br>
 
-| Component      | Version |
+| Component | Version |
 | -------------- | ------- |
 | OpenCore | 0.7.9 (Release) |
 | macOS Monterey | 12.2.1 (21D62) |
@@ -196,7 +196,7 @@ Refer to [ThinkPad X1 Carbon (7th Gen) Specs](https://psref.lenovo.com/syspool/S
 <summary><strong>KEXT</strong></summary>
 <br>
 
-| Component                   | Version |
+| Component              | Version |
 | ---------------------- | ------- |
 | AirportItlwm.kext | 2.1.0 |
 | AppleALC.kext | 1.7.0 |
@@ -225,7 +225,7 @@ Refer to [ThinkPad X1 Carbon (7th Gen) Specs](https://psref.lenovo.com/syspool/S
 <details><summary><strong>UEFI DRIVERS</strong></summary>
 <br>
 
-|     Component      | Version           |
+|    Component    | Version           |
 | --------------- | ----------------- |
 | AudioDxe.efi | OpenCorePkg 0.7.9 |
 | OpenCanopy.efi | OpenCorePkg 0.7.9 |
