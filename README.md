@@ -10,7 +10,7 @@ OpenCore-based EFI for Lenovo ThinkPad X1 Carbon 7th Generation | Model 20R1-000
 
 This repository is forked from several X1C Hackintosh repositories (See **REFERENCES**).
 
-This README file is modified from [HJebbour/ThinkPad-X1C8-Hackintosh](https://github.com/HJebbour/ThinkPad-X1C8-Hackintosh) (See **REFERENCES**).
+This README file is modified from [HJebbour/ThinkPad-X1C8-Hackintosh](https://github.com/HJebbour/ThinkPad-X1C8-Hackintosh).
 
 **DISCLAIMER:**
 As you embark on your Hackintosh journey you are encouraged to **READ** the entire README and [Dortania](https://dortania.github.io/getting-started/) guides before you start.
@@ -298,18 +298,6 @@ Refer to [ThinkPad X1 Carbon (7th Gen) Specs](https://psref.lenovo.com/syspool/S
 
 ## Before Installation
 
-<details><summary><strong>SMBIOS</strong></summary>
-<br>
-
-Use [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) to create your own PlatformInfo based on your preferred model.
-
-- MacBookPro16,3 -`What I used`
-- MacBookPro16,2 -`Used by others`
-
-**Note:** If you use a different SMBIOS model than the MacbookPro16,3 that I've used. The provided USB mapping will not work.  You will need to edit the `UTBMap.kext` file.  You can right click on the file and select **Show Package Contents**.  From there you can open the Info.plist file in ProperTree and change MacBookPro16,3 to whatever Model ID you've chosen. This should provide a working UTBMap.kext.
-
-</details>
-
 <details><summary><strong>UEFI SETTINGS</strong></summary>
 <br>
 
@@ -337,6 +325,18 @@ Format is lang-COUNTRY:keyboard
 Pick your keyboard layout here:
 
 [AppleKeyboardLayouts.txt](https://github.com/acidanthera/OpenCorePkg/blob/master/Utilities/AppleKeyboardLayouts/AppleKeyboardLayouts.txt)
+
+</details>
+
+<details><summary><strong>SMBIOS</strong></summary>
+<br>
+
+Use [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) to create your own PlatformInfo based on your preferred model.
+
+- MacBookPro16,3 -`What I used`
+- MacBookPro16,2 -`Used by others`
+
+**Note:** If you use a different SMBIOS model than the MacbookPro16,3 that I've used. The provided USB mapping will not work.  You will need to edit the `UTBMap.kext` file.  You can right click on the file and select **Show Package Contents**.  From there you can open the Info.plist file in ProperTree and change MacBookPro16,3 to whatever Model ID you've chosen. This should provide a working UTBMap.kext.
 
 </details>
 
