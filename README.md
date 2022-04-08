@@ -121,7 +121,7 @@ EFI (drive)
 	├── OC
 ```
 
-It should work and your X1C8 should boot and work fine. **You will at minimum need to generate SMBIOS values if you want Apple services to work.** Note that all error reporting/logging has been turned off in the config.plist. You will have a difficult time trouble shooting with the setup provided. You can easily turn on the error reporting and logging if you follow the Dortania guide. Best of luck.
+It should work and your X1C7 should boot and work fine. **You will at minimum need to generate SMBIOS values if you want Apple services to work.** Note that all error reporting/logging has been turned off in the config.plist. You will have a difficult time trouble shooting with the setup provided. You can easily turn on the error reporting and logging if you follow the Dortania guide. Best of luck.
 
 > **NOTE** if you simply wish to copy my EFI please do the following:
 >
@@ -162,7 +162,7 @@ These are relevant components on my machine which may differ from yours, keep th
 | Input | PS2 Keyboard & Synaptics I2C HID TrackPad | - |
 | Ports | 2x USB 3.1 Gen 1 (Right USB Always On)</br> 2x USB 3.1 Type-C Gen 2 / Thunderbolt 3 (Power Delivery and DisplayPort) [Max 5120x2880 @60Hz]</br> HDMI 1.4 (Max 4096x2160 @24Hz) | - |
 
-Refer to [ThinkPad X1 Carbon 7th Gen Specs](https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_7th_Gen/ThinkPad_X1_Carbon_7th_Gen_Spec.PDF) for possible stock configurations.
+Refer to [ThinkPad X1 Carbon (7th Gen) Specs](https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_7th_Gen/ThinkPad_X1_Carbon_7th_Gen_Spec.PDF) for possible stock configurations.
 
 </details>  
 
@@ -173,7 +173,7 @@ Refer to [ThinkPad X1 Carbon 7th Gen Specs](https://psref.lenovo.com/syspool/Sys
 
 | Component      | Version |
 | -------------- | ------- |
-| OpenCore | 0.7.9 |
+| OpenCore | 0.7.9 Release |
 | macOS Monterey | 12.2.1 (21D62) |
 
 </details>
