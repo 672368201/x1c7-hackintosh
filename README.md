@@ -269,14 +269,6 @@ Refer to [ThinkPad X1 Carbon (7th Gen) Specs](https://psref.lenovo.com/syspool/S
 
 </details>  
 
-<details><summary><strong>SCREENSHOTS</strong></summary>
-    <br>
-    <p float="left">
-        <img src="./Docs/Neofetch-Screenshot.png" alt="Neofetch" width="1000">
-	<img src="./Docs/Blackmagic_Disk_Speed_Test.png" alt="Blackmagic Disk Speed Test">
-    </p>
-</details> 
-
 ## Before Installation
 
 <details><summary><strong>UEFI SETTINGS</strong></summary>
@@ -315,6 +307,13 @@ Pick your keyboard layout here:
 <br>
 
 To improve the Trackpad in macOS, you need to enable `Tap to click` in `System Preferences -> Trackpad`
+
+</details>  
+
+<details><summary><strong>HiDPI</strong></summary>
+<br>
+	
+Use [one-key-hidpi](https://github.com/xzhih/one-key-hidpi) to simulate macOS HiDPI on a non-retina display, and have a "Native" Scaled in `System Preferences -> Monitor`.
 
 </details>  
 
