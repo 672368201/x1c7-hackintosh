@@ -10,7 +10,7 @@
 > ### Video and Audio
 | Feature                              | Status | Dependency          | Remarks                      |
 | :----------------------------------- | ------ | ------------------- | ---------------------------- |
-| Full Graphics Accleration (QE/CI) | ✅ | `WhateverGreen.kext` & `AAPL,ig-platform-id` = 0900A53E & `device-id` = C89B0000 | - |
+| Full Graphics Acceleration (QE/CI) | ✅ | `WhateverGreen.kext` & `AAPL,ig-platform-id` = 0500A63E & `device-id` = A63E0000 | - |
 | Audio Output | ✅ | `AppleALC.kext` with Layout ID = 71 | - |
 | Audio Speakers | ✅ | `AppleALC.kext` with Layout ID = 71 | You have to manually aggregate the two output using "Audio MIDI Setup" to have 4 speakers working |
 | Audio Input | ✅ | `AppleALC.kext` with Layout ID = 71 | Headset microphone is inconsistent and needs more testing |
@@ -29,11 +29,11 @@
 | Feature                              | Status | Dependency          | Remarks                      |
 | :----------------------------------- | ------ | ------------------- | ---------------------------- |
 | WiFi | ✅ | `AirportIltwm.kext` | - |
-| Bluetooth | ✅ | `IntelBluetoothFirmware.kext`, `BlueToolFixup.kext`, and `USBMap.kext` | Mouse and Keyboard not working via Bluetooth |
+| Bluetooth | ✅ | `IntelBluetoothFirmware.kext`, `BlueToolFixup.kext`, and `UTBMap.kext` | Mouse and Keyboard not working via Bluetooth |
 | Ethernet | ✅ | `IntelMausi.kext` | - |
 | HDMI 1.4 | ✅ | BusID patching | Hotplug with 4K Resolution |
-| USB 2.0 / USB 3.0 | ✅ | `USBMap.kext` | Create your own USBMap.kext using [CorpNewt](https://github.com/corpnewt/USBMap) |
-| USB 3.1 (Type-C) | ✅ | `USBMap.kext` and enable Thunderbolt 3 in `BIOS` | Hotplug is working |
+| USB 2.0 / USB 3.0 | ✅ | `UTBMap.kext` | Create your own UTBMap.kext using [USBToolBoxᵇᵉᵗᵃ](https://github.com/USBToolBox/tool) |
+| USB 3.1 (Type-C) | ✅ | `UTBMap.kext` and enable Thunderbolt 3 in `BIOS` | Hotplug is working |
 | USB Power Properties in macOS | ✅ | - | - |
 | ThinkPad USB-C Docking Station | ✅ | - | Work smoothly |
 
@@ -44,7 +44,7 @@
 | TrackPoint | ✅ | `VoodooPS2Controller.kext` | - |
 | TrackPad | ✅ | `VoodooI2C.kext` and `VoodooI2CHID.kext` | - |
 | Built-in Keyboard | ✅ | `VoodooPS2Controller.kext` | - |
-| Webcam | ✅ | `USBMap.kext` | - |
+| Webcam | ✅ | `UTBMap.kext` | - |
 
 > ### macOS Continuity
 | Feature                              | Status | Dependency          | Remarks                      |
@@ -72,7 +72,7 @@
 | Wireless WAN | ❌ | `DISABLED` in BIOS to save power. | Unable to investigate as I have no need and my model did not come with WWAN |
 | DRM | ❌ | iGPU | DRM is broken with iGPUs |
 | Internal Microphone | ❌ | - | I hope it will work one day |
-| Fan Control / Multimedia Keys | ❌ | `YogaSMC.kext` | YogaSMC.kext needs to be updated in order to work with X1C8 Hardware |
+| Fan Control / Multimedia Keys | ❌ | `YogaSMC.kext` | YogaSMC.kext needs to be updated in order to work with X1C7 Hardware |
 | Continuity Camera | ❌ | - | Not working with Intel cards |
 | AirDrop | ❌ | - | Not working with Intel cards |
 | Apple Watch Auto Unlock | ❌ | - | Not working with Intel cards |
@@ -115,7 +115,7 @@ This is not a guide. It shoud only be used as a reference. I provide some tips a
 I understand that some may simply add the OC and Boot folders to their EFI folder. For clarity the EFI partition needs a folder called EFI that contains the Boot and OC folder.
 
 ```EFI
-EFI (drive)
+EFI (Drive or partition)
 	EFI
 	├── BOOT
 	├── OC
