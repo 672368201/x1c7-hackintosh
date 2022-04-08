@@ -290,7 +290,7 @@ Refer to [ThinkPad X1 Carbon (7th Gen) Specs](https://psref.lenovo.com/syspool/S
 - [headkaze](https://github.com/headkaze) for [Hackintool](https://github.com/headkaze/Hackintool)
 - [Mieze](https://github.com/Mieze) for [IntelMausiEthernet](https://github.com/Mieze/IntelMausiEthernet)
 - [OpenIntelWireless](https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases) for [IntelBluetoothFirmware](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)
-- [USBToolBox](https://github.com/USBToolBox) for [tool](https://github.com/USBToolBox/tool) and [kext](https://github.com/USBToolBoxt/kext)
+- [USBToolBox](https://github.com/USBToolBox) for [tool](https://github.com/USBToolBox/tool) and [kext](https://github.com/USBToolBox/kext)
 - People at [r/hackintosh](https://www.reddit.com/r/hackintosh/) for their advice and help
 - And every other contributor
 
