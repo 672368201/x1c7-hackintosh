@@ -116,9 +116,9 @@ I understand that some may simply add the OC and Boot folders to their EFI folde
 
 ```EFI
 EFI/ESP (Drive or partition)
-	├──EFI
-		├── BOOT
-		├── OC
+    ├──EFI
+        ├── BOOT
+        ├── OC
 ```
 
 It should work and your X1C7 should boot and work fine. **You will at minimum need to generate SMBIOS values if you want Apple services to work.** Note that all error reporting/logging has been turned off in the config.plist. You will have a difficult time trouble shooting with the setup provided. You can easily turn on the error reporting and logging if you follow the Dortania guide. Best of luck.
