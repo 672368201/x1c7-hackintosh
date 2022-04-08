@@ -154,7 +154,7 @@ These are relevant components on my machine which may differ from yours, keep th
 | CPU | Intel® Core™ i7-10710U | - |
 | GPU | Intel UHD Graphics 620 | - |
 | Storage | KXG6AZNV512G TOSHIBA | - |
-| Monitor | 14" FHD - 1920 x 1080 | - |
+| Display | 14" FHD - 1920 x 1080 | - |
 | Memory | 16GB / 2133MHz LPDDR3 | - |
 | Battery | Integrated Li-Polymer 51Wh | - |
 | Webcam | 720p Camera | - |
@@ -306,14 +306,14 @@ Pick your keyboard layout here:
 <details><summary><strong>TRACKPAD</strong></summary>
 <br>
 
-To improve the Trackpad in macOS, you need to enable `Tap to click` in `System Preferences -> Trackpad`
+To improve the Trackpad in macOS, you need to enable `Tap to click` in `System Preferences -> Trackpad`.
 
 </details>  
 
 <details><summary><strong>HiDPI</strong></summary>
 <br>
 	
-Use [one-key-hidpi](https://github.com/xzhih/one-key-hidpi) to simulate macOS HiDPI on a non-retina display, and have a "Native" Scaled in `System Preferences -> Monitor`.
+Use [one-key-hidpi](https://github.com/xzhih/one-key-hidpi) to simulate macOS HiDPI on a non-retina display, and have a "Native" Scaled in `System Preferences -> Displays`.
 
 </details>  
 
@@ -341,6 +341,6 @@ Generate CPUFriendDataProvider for your machine [here](https://github.com/fewtar
 <summary><strong>AUDIO</strong></summary>
 <br>
 
-Using the Layout ID 71 will enable the 4 speakers (Top front & Bottom rear) in **System Preferences>Sound** allowing you to select either set of speakers (Two Output). To combine the two you'll need to open Audio MIDI Setup and create `Multi-Output Device` with both sets of speakers. Unfortunately you can't control natively the volume of an Aggregate Device with the volume keys. You'll need to install [AggregateVolumeMenu](https://github.com/adaskar/AggregateVolumeMenu)
+Using the Layout ID 71 will enable the 4 speakers (Top front & Bottom rear) in **System Preferences>Sound** allowing you to select either set of speakers (Two Output). To combine the two you'll need to open Audio MIDI Setup and create `Multi-Output Device` with both sets of speakers. Unfortunately you can't control natively the volume of an Aggregate Device with the volume keys. You'll need to install [AggregateVolumeMenu](https://github.com/adaskar/AggregateVolumeMenu).
 
 </details>
