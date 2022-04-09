@@ -175,7 +175,7 @@ These are relevant components on my machine which may differ from yours, keep th
 | --------- | ----------------------------------------------- | ------------------------------------------------------------ |
 | Processor | Intel® Core™ i7-10710U | 6 Cores, 12 Threads, Base Frequency 1.10 GHz, Max Turbo Frequency 4.70 GHz, 12 MB Cache, TDP 15W |
 | Graphics | Intel® UHD Graphics 620 | - |
-| Memory | 16GB LPDDR3-2133 | Soldered memory, not upgradable |
+| Memory | SK Hynix 16GB LPDDR3 2133MHz | Soldered memory, not upgradable |
 | Storage | Toshiba KXG6AZNV512G | BiCS FLASH™ TLC, M.2 2280-S2 Single-sided, PCIe® Gen3 x4, NVMe™ 1.3a |
 | Audio Chip | Realtek® ALC3286 Codec | High Definition (HD) Audio |
 | Speakers |  | Stereo speakers, 2W x2 and 0.8W x2, Dolby® Atmos® |
