@@ -179,9 +179,9 @@ These are relevant components on my machine which may differ from yours, keep th
 | Storage | Toshiba KXG6AZNV512G | BiCS FLASH™ TLC, M.2 2280-S2 Single-sided, PCIe® Gen3 x4, NVMe™ 1.3a |
 | Audio Chip | Realtek® ALC3286 Codec | High Definition (HD) Audio |
 | Speakers |  | Stereo speakers, 2W x2 and 0.8W x2, Dolby® Atmos® |
-| Camera | 720p, with ThinkShutter, fixed focus | - |
+| Camera |  | 720p, with ThinkShutter, fixed focus |
 | Battery | Internal, 4c, 51Wh, LiIon, SMP 02DL005 | Integrated Li-Polymer 51Wh battery, supports Rapid Charge (charge up to 80% in 1hr) with 65W AC adapter |
-| Display | 14.0" (355mm) HDR HD (1920 x 1080) | - |
+| Display | LEN40A9 (R140NWF5 R1) | 14.0" (355mm) HDR HD (1920 x 1080) |
 | Input | PS2 Keyboard & Synaptics I2C HID TrackPad | - |
 | Ethernet | Intel Ethernet Connection I219-V (non-vPro models) | Gigabit Ethernet, RJ45 via optional ThinkPad Ethernet Extension Adapter Gen 2 |
 | Wireless | Intel® Wireless-AC 9560 | 802.11ac Dual Band 2x2 Wi-Fi + Bluetooth 5.1 |
