@@ -177,13 +177,13 @@ These are relevant components on my machine which may differ from yours, keep th
 | CPU | Intel® Core™ i7-10710U | - |
 | GPU | Intel UHD Graphics 620 | - |
 | Storage | KXG6AZNV512G TOSHIBA | - |
-| Display | 14" FHD - 1920 x 1080 | - |
+| Display | 14.0" (355mm) HDR HD (1920 x 1080) | - |
 | Memory | 16GB / 2133MHz LPDDR3 | - |
 | Battery | Integrated Li-Polymer 51Wh | - |
 | Webcam | 720p Camera | - |
 | Wireless | Intel® Wireless-AC 9560 | - |
 | Input | PS2 Keyboard & Synaptics I2C HID TrackPad | - |
-| Ports | 2x USB 3.1 Gen 1 (Right USB Always On)</br> 2x USB 3.1 Type-C Gen 2 / Thunderbolt 3 (Power Delivery and DisplayPort) [Max 5120x2880 @60Hz]</br> HDMI 1.4 (Max 4096x2160 @24Hz) | - |
+| Ports | 2x USB 3.1 Gen 1 (Right USB Always On)</br> 2x USB 3.1 Type-C Gen 2 / Thunderbolt 3 (Power Delivery and DisplayPort) [Max 5120x2880 @60Hz]</br> HDMI 1.4b (Max 4096x2160 @24Hz) | - |
 
 Refer to [ThinkPad X1 Carbon (7th Gen) Specs](https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_7th_Gen/ThinkPad_X1_Carbon_7th_Gen_Spec.PDF) for possible stock configurations.
 
