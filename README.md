@@ -40,8 +40,8 @@ Should you find an error, or improve anything, be it in the config itself or in 
 | Full Graphics Acceleration (QE/CI) | ✅ | `WhateverGreen.kext` & `AAPL,ig-platform-id` = 0500A63E & `device-id` = A63E0000 | To fake Intel Iris Plus Graphics 645, MacBookPro16,3's native iGPU |
 
 > ### Power
-| Feature                              | Status | Dependency          | Remarks                      |
-| :----------------------------------- | ------ | ------------------- | ---------------------------- |
+| Feature | Status | Dependency | Remarks |
+| :------ | ------ | ---------- | ------- |
 | Battery | ✅ | `ECEnabler.kext` | - |
 | CPU Power Management (SpeedShift) | ✅ | `CPUFriend.kext` with `CPUFriendDataProvider.kext` | - |
 | iGPU Power Management | ✅ | `SSDT-PLUG.aml` | - |
@@ -49,8 +49,8 @@ Should you find an error, or improve anything, be it in the config itself or in 
 | S3 Sleep / Hibernation Mode 3 | ✅ | - | Needs more improvement, exit Sleep mode with CMOS error |
 
 > ### Connectivity
-| Feature                              | Status | Dependency          | Remarks                      |
-| :----------------------------------- | ------ | ------------------- | ---------------------------- |
+| Feature | Status | Dependency | Remarks |
+| :------ | ------ | ---------- | ------- |
 | WiFi | ✅ | `AirportIltwm.kext` | - |
 | Bluetooth | ✅ | `IntelBluetoothFirmware.kext`, `BlueToolFixup.kext`, and `UTBMap.kext` | Mouse and Keyboard not working via Bluetooth |
 | Ethernet | ✅ | `IntelMausi.kext` | - |
@@ -61,8 +61,8 @@ Should you find an error, or improve anything, be it in the config itself or in 
 | ThinkPad USB-C Docking Station | ✅ | - | Work smoothly |
 
 > ### Peripherals
-| Feature                              | Status | Dependency          | Remarks                      |
-| :----------------------------------- | ------ | ------------------- | ---------------------------- |
+| Feature | Status | Dependency | Remarks |
+| :------ | ------ | ---------- | ------- |
 | Brightness Adjustments | ✅ | `WhateverGreen.kext`, `SSDT-PNLF.aml`, `enable-backlight-smoother` property, and `BrightnessKeys.kext`| `enable-backlight-smoother` property is optional for smoother birghtness adjustments |
 | TrackPoint | ✅ | `VoodooPS2Controller.kext` | - |
 | TrackPad | ✅ | `VoodooI2C.kext` and `VoodooI2CHID.kext` | - |
@@ -70,8 +70,8 @@ Should you find an error, or improve anything, be it in the config itself or in 
 | Webcam | ✅ | `UTBMap.kext` | - |
 
 > ### macOS Continuity
-| Feature                              | Status | Dependency          | Remarks                      |
-| :----------------------------------- | ------ | ------------------- | ---------------------------- |
+| Feature | Status | Dependency | Remarks |
+| :------ | ------ | ---------- | ------- |
 | iCloud, iMessage, FaceTime | ✅ | Whitelisted Apple ID, Valid SMBIOS | See [Fixing iMessage and other services with OpenCore](https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html) |
 | Handoff | ✅ | - | - |
 | Universal Clipboard | ✅ | - | - |
@@ -79,8 +79,8 @@ Should you find an error, or improve anything, be it in the config itself or in 
 | AirPlay to Mac | ✅ | - | - |
 
 > ### Miscellaneous
-| Feature                              | Status | Dependency          | Remarks                      |
-| :----------------------------------- | ------ | ------------------- | ---------------------------- |
+| Feature | Status | Dependency | Remarks |
+| :------ | ------ | ---------- | ------- |
 | Dual Boot | ✅ | - | Windows & macOS (Use [this](https://dortania.github.io/OpenCore-Multiboot/empty/samedisk.html#precautions) guide to setup dual boot on the same drive) |
 
 </details>  
