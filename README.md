@@ -31,8 +31,8 @@ Should you find an error, or improve anything, be it in the config itself or in 
 <br>
 
 > ### Multimedia
-| Feature                              | Status | Dependency          | Remarks                      |
-| :----------------------------------- | ------ | ------------------- | ---------------------------- |
+| Feature | Status | Dependency | Remarks |
+| :------ | ------ | ---------- | ------- |
 | Audio Output | ✅ | `AppleALC.kext` with Layout ID = 71 | - |
 | Audio Speakers | ✅ | `AppleALC.kext` with Layout ID = 71 | You have to manually aggregate the two output using "Audio MIDI Setup" to have 4 speakers working |
 | Audio Input | ✅ | `AppleALC.kext` with Layout ID = 71 | Headset microphone is inconsistent and needs more testing |
