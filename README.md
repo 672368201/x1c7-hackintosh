@@ -184,8 +184,7 @@ These are relevant components on my machine which may differ from yours, keep th
 | Battery | Integrated Li-Polymer 51Wh battery, supports Rapid Charge (charge up to 80% in 1hr) with 65W AC adapter | - |
 | Display | 14.0" (355mm) HDR HD (1920 x 1080) | - |
 | Input | PS2 Keyboard & Synaptics I2C HID TrackPad | - |
-| Ethernet | Gigabit Ethernet, Intel Ethernet Connection I219-V (non-vPro models), RJ45 via optional ThinkPad Ethernet Extension
-Adapter Gen 2 | - |
+| Ethernet | Gigabit Ethernet, Intel Ethernet Connection I219-V (non-vPro models), RJ45 via optional ThinkPad Ethernet Extension Adapter Gen 2 | - |
 | Wireless | Intel Wireless-AC 9560, 802.11ac Dual Band 2x2 Wi-Fi + Bluetooth 5.1 | - |
 | Ports | 1x USB 3.1 Gen 1</br>1x USB 3.1 Gen 1 (Always On)</br>2x USB-C 3.1 Gen 2 / Thunderbolt 3 (support data transfer, Power Delivery and DisplayPort™ 1.2)</br>1x HDMI 1.4b</br>1x Ethernet extension connector</br>1x Headphone / Microphone combo jack (3.5mm)</br>1x Side docking connector | - |
 
