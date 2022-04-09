@@ -167,17 +167,16 @@ It should work and your X1C7 should boot and work fine. **You will at minimum ne
 <details>
 <summary><strong>HARDWARE</strong></summary>
 
-### Lenovo ThinkPad X1 Carbon 7th
+### Lenovo ThinkPad X1 Carbon 7th Generation, Type 20R1-0005CD
 
 These are relevant components on my machine which may differ from yours, keep these in mind as you will need to adjust accordingly, depending on your machine's configuration.
 
 | Category  | Component                                       | Note                                                         |
 | --------- | ----------------------------------------------- | ------------------------------------------------------------ |
-| Model | Lenovo ThinkPad X1 Carbon 7th Generation | Type 20R1-0005CD |
 | Processor | Intel® Core™ i7-10710U | 6 Cores, 12 Threads, Base Frequency 1.10 GHz, Max Turbo Frequency 4.70 GHz, 12 MB Cache, TDP 15W |
 | Graphics | Intel® UHD Graphics 620 | - |
 | Memory | 16GB LPDDR3-2133 | Soldered memory, not upgradable |
-| Storage | Toshiba KXG6AZNV512G | M.2 2280-S2 Single-sided, PCIe® Gen3 x4, NVMe™ 1.3a, BiCS FLASH™ TLC |
+| Storage | Toshiba KXG6AZNV512G | BiCS FLASH™ TLC, M.2 2280-S2 Single-sided, PCIe® Gen3 x4, NVMe™ 1.3a |
 | Audio Chip | Realtek® ALC3286 Codec | High Definition (HD) Audio |
 | Speakers |  | Stereo speakers, 2W x2 and 0.8W x2, Dolby® Atmos® |
 | Camera | 720p, with ThinkShutter, fixed focus | - |
