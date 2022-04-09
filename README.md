@@ -81,7 +81,7 @@ Should you find an error, or improve anything, be it in the config itself or in 
 > ### Miscellaneous
 | Feature | Status | Dependency | Remarks |
 | :------ | ------ | ---------- | ------- |
-| Dual Boot | ✅ | - | Windows & macOS (Use [this](https://dortania.github.io/OpenCore-Multiboot/empty/samedisk.html#precautions) guide to setup dual boot on the same drive) |
+| Multiboot | ✅ | - | Windows & macOS (See [Multiboot with OpenCore](https://dortania.github.io/OpenCore-Multiboot/) guide to setup multiboot) |
 
 </details>  
 
