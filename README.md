@@ -1,6 +1,6 @@
 # OpenCore for macOS on ThinkPad X1 Carbon 7th, 20R1-0005CD
 
-OpenCore-based EFI for Lenovo ThinkPad X1 Carbon 7th Generation | Model 20R1-0005CD
+OpenCore-based EFI for Lenovo ThinkPad X1 Carbon 7th Generation | Type 20R1-0005CD
 
 **Status: Work In Progress | Stable | Daily driver**
 
@@ -173,7 +173,7 @@ These are relevant components on my machine which may differ from yours, keep th
 
 | Category  | Component                                       | Note                                                         |
 | --------- | ----------------------------------------------- | ------------------------------------------------------------ |
-| Model | 20R1-0005CD | - |
+| Type | 20R1-0005CD | - |
 | Processor | Intel® Core™ i7-10710U | - |
 | Graphics | Intel® UHD Graphics 620 | - |
 | Memory | 16GB LPDDR3-2133 soldered memory, not upgradable | - |
