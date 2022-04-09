@@ -181,7 +181,7 @@ These are relevant components on my machine which may differ from yours, keep th
 | Audio Chip | Realtek® ALC3286 Codec | High Definition (HD) Audio |
 | Speakers |  | Stereo speakers, 2W x2 and 0.8W x2, Dolby® Atmos® |
 | Camera | 720p, with ThinkShutter, fixed focus | - |
-| Battery | Integrated Li-Polymer 51Wh battery | Supports Rapid Charge (charge up to 80% in 1hr) with 65W AC adapter |
+| Battery | Internal, 4c, 51Wh, LiIon, SMP 02DL005 | Integrated Li-Polymer 51Wh battery, supports Rapid Charge (charge up to 80% in 1hr) with 65W AC adapter |
 | Display | 14.0" (355mm) HDR HD (1920 x 1080) | - |
 | Input | PS2 Keyboard & Synaptics I2C HID TrackPad | - |
 | Ethernet | Intel Ethernet Connection I219-V (non-vPro models) | Gigabit Ethernet, RJ45 via optional ThinkPad Ethernet Extension Adapter Gen 2 |
