@@ -72,7 +72,7 @@ Should you find an error, or improve anything, be it in the config itself or in 
 > ### macOS Continuity
 | Feature | Status | Dependency | Remarks |
 | :------ | ------ | ---------- | ------- |
-| iCloud, iMessage, FaceTime | ✅ | Whitelisted Apple ID, Valid SMBIOS | See [Fixing iMessage and other services with OpenCore](https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html) |
+| iCloud, iMessage, FaceTime | ✅ | Valid SMBIOS, Whitelisted Apple ID | See [Fixing iMessage and other services with OpenCore](https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html) |
 | Handoff | ✅ | - | - |
 | Universal Clipboard | ✅ | - | - |
 | SMS & Phone Call via iPhone | ✅ | - | - |
