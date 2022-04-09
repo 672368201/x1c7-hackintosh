@@ -173,8 +173,8 @@ These are relevant components on my machine which may differ from yours, keep th
 
 | Category  | Component                                       | Note                                                         |
 | --------- | ----------------------------------------------- | ------------------------------------------------------------ |
-| Type | Lenovo ThinkPad X1 Carbon 7th Generation | Type 20R1-0005CD |
-| Processor | Intel® Core™ i7-10710U | - |
+| Model | Lenovo ThinkPad X1 Carbon 7th Generation | Type 20R1-0005CD |
+| Processor | Intel® Core™ i7-10710U | 6 Cores, 12 Threads, Base Frequency 1.10 GHz, Max Turbo Frequency 4.70 GHz, 12 MB Cache, TDP 15W |
 | Graphics | Intel® UHD Graphics 620 | - |
 | Memory | 16GB LPDDR3-2133 | Soldered memory, not upgradable |
 | Storage | KXG6AZNV512G TOSHIBA | PCIe 3.0 NVMe |
