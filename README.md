@@ -173,7 +173,7 @@ These are relevant components on my machine which may differ from yours, keep th
 
 | Category  | Component                                       | Note                                                         |
 | --------- | ----------------------------------------------- | ------------------------------------------------------------ |
-| Processor | Intel® Core™ i7-10710U | 6 Cores, 12 Threads, Base Frequency 1.10 GHz, Max Turbo Frequency 4.70 GHz, TDP 15W |
+| Processor | Intel® Core™ i7-10710U CPU @ 1.10 GHz | 6 Cores, 12 Threads, Base Frequency 1.10 GHz, Max Turbo Frequency 4.70 GHz, TDP 15W |
 | Graphics | Intel® UHD Graphics 620 (Intel® Comet Lake-U v1 GT2) | Base Frequency 300 MHz, Max Dynamic Frequency 1.15 GHz, Video Max Memory 32GB, Max Resolution 4096 x 2304@24Hz, 3 Displays Supported |
 | Memory | SK Hynix 8GB LPDDR3 2133MHz x2 | 16GB in total, soldered memory, not upgradable |
 | Storage | Toshiba KXG6AZNV512G | BiCS FLASH™ TLC, M.2 2280-S2 Single-sided, PCIe® Gen3 x4, NVMe™ 1.3a |
