@@ -174,16 +174,16 @@ These are relevant components on my machine which may differ from yours, keep th
 | Category  | Component                                       | Note                                                         |
 | --------- | ----------------------------------------------- | ------------------------------------------------------------ |
 | Processor | Intel® Core™ i7-10710U | 6 Cores, 12 Threads, Base Frequency 1.10 GHz, Max Turbo Frequency 4.70 GHz, TDP 15W |
-| Graphics | Intel® UHD Graphics 620 (GT2) | Base Frequency 300 MHz, Max Dynamic Frequency 1.15 GHz, Video Max Memory 32GB, Max Resolution 4096 x 2304@24Hz, 3 Displays Supported |
+| Graphics | Intel® UHD Graphics 620 (Intel® Comet Lake-U v1 GT2) | Base Frequency 300 MHz, Max Dynamic Frequency 1.15 GHz, Video Max Memory 32GB, Max Resolution 4096 x 2304@24Hz, 3 Displays Supported |
 | Memory | SK Hynix 8GB LPDDR3 2133MHz x2 | 16GB in total, soldered memory, not upgradable |
 | Storage | Toshiba KXG6AZNV512G | BiCS FLASH™ TLC, M.2 2280-S2 Single-sided, PCIe® Gen3 x4, NVMe™ 1.3a |
 | Audio Chip | Realtek® ALC3286 Codec | High Definition (HD) Audio |
 | Camera | AzureWave | UVC Camera, Vendor ID 5075, Product ID 22202, 720p, with ThinkShutter, fixed focus |
 | Battery | SMP 02DL005 | Integrated Li-Polymer 4c 51Wh battery, supports Rapid Charge (charge up to 80% in 1hr) with 65W AC adapter |
-| Display | LEN40A9 (R140NWF5 R1) | 14.0" (355mm) HDR HD (1920 x 1080) |
+| Display | Lenovo LP140WF9-SPF1 (LEN40A9) | 14.0" (355mm) HDR HD (1920 x 1080) |
 | Input | PS2 Keyboard & Synaptics I2C HID TrackPad | - |
-| Ethernet | Intel Ethernet Connection I219-V (non-vPro models) | Gigabit Ethernet, RJ45 via optional ThinkPad Ethernet Extension Adapter Gen 2 |
-| Wireless | Intel® Wireless-AC 9560 | 802.11ac Dual Band 2x2 Wi-Fi + Bluetooth 5.1 |
+| Ethernet | Intel Ethernet Connection (10) I219-V (non-vPro models) | Gigabit Ethernet, RJ45 via optional ThinkPad Ethernet Extension Adapter Gen 2 |
+| Wireless | Intel® Wireless-AC 9560 160MHz | 802.11ac Dual Band 2x2 Wi-Fi + Bluetooth 5.1 |
 | Ports | 1x USB 3.1 Gen 1</br>1x USB 3.1 Gen 1 (Always On)</br>2x USB-C 3.1 Gen 2 / Thunderbolt 3 (support data transfer, Power Delivery and DisplayPort™ 1.2)</br>1x HDMI 1.4b</br>1x Ethernet extension connector</br>1x Headphone / Microphone combo jack (3.5mm)</br>1x Side docking connector | - |
 
 Refer to [ThinkPad X1 Carbon (7th Gen) Specs](https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_7th_Gen/ThinkPad_X1_Carbon_7th_Gen_Spec.PDF) for possible stock configurations.
