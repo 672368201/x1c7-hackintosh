@@ -56,7 +56,7 @@ Should you find an error, or improve anything, be it in the config itself or in 
 | Ethernet | ✅ | `IntelMausi.kext` | - |
 | HDMI 1.4 | ✅ | BusID patching | Hotplug with 4K Resolution |
 | USB 2.0 / USB 3.0 | ✅ | `UTBMap.kext` | Create your own UTBMap.kext using [USBToolBoxᵇᵉᵗᵃ](https://github.com/USBToolBox/tool) |
-| USB 3.1 (Type-C) | ✅ | `UTBMap.kext` and enable Thunderbolt 3 in `BIOS` | Hotplug is working |
+| USB 3.1 (Type-C) | ✅ | `UTBMap.kext` and enable Thunderbolt 3 in BIOS | Hotplug is working |
 | USB Power Properties in macOS | ✅ | - | - |
 | ThinkPad USB-C Docking Station | ✅ | - | Work smoothly |
 
