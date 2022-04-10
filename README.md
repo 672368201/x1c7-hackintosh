@@ -182,7 +182,7 @@ These are relevant components on my machine which may differ from yours, keep th
 | Battery | SMP 02DL005 (Integrated Li-Polymer 4c 51Wh) | Supports Rapid Charge (charge up to 80% in 1hr) with 65W AC adapter |
 | Display | Lenovo LP140WF9-SPF1 (LEN40A9) | 14.0" (355mm) HDR HD (1920 x 1080) |
 | Input | PS2 Keyboard & Synaptics I2C HID TrackPad | - |
-| Ethernet | Intel Ethernet Connection (10) I219-V (non-vPro models) | Gigabit Ethernet, RJ45 via optional ThinkPad Ethernet Extension Adapter Gen 2 |
+| Ethernet | Intel® Ethernet Connection (10) I219-V (non-vPro models) | Gigabit Ethernet, RJ45 via optional ThinkPad Ethernet Extension Adapter Gen 2 |
 | Wireless | Intel® Wireless-AC 9560 160MHz | 802.11ac Dual Band 2x2 Wi-Fi + Bluetooth 5.1 |
 | Ports | 1x USB 3.1 Gen 1</br>1x USB 3.1 Gen 1 (Always On)</br>2x USB-C 3.1 Gen 2 / Thunderbolt 3 (support data transfer, Power Delivery and DisplayPort™ 1.2)</br>1x HDMI 1.4b</br>1x Ethernet extension connector</br>1x Headphone / Microphone combo jack (3.5mm)</br>1x Side docking connector | - |
 
