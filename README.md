@@ -177,8 +177,8 @@ These are relevant components on my machine which may differ from yours, keep th
 | Graphics | Intel® UHD Graphics 620 (Intel® Comet Lake-U v1 GT2) | Base Frequency 300 MHz, Max Dynamic Frequency 1.15 GHz, Video Max Memory 32GB, Max Resolution 4096 x 2304@24Hz, 3 Displays Supported |
 | Memory | SK Hynix 8GB LPDDR3 2133MHz x2 | 16GB in total, soldered memory, not upgradable |
 | Storage | Toshiba KXG6AZNV512G | BiCS FLASH™ TLC, M.2 2280-S2 Single-sided, PCIe® Gen3 x4, NVMe™ 1.3a |
-| Audio Chip | Realtek® ALC3286 Codec | High Definition (HD) Audio |
-| Camera | AzureWave | UVC Camera, Vendor ID 5075, Product ID 22202, 720p, with ThinkShutter, fixed focus |
+| Audio Chip | Realtek® ALC3286 Codec (Realtek® ALC285 @ Intel® Comet Point-LP PCH) | High Definition (HD) Audio |
+| Camera | AzureWave UVC Camera, Vendor ID 5075, Product ID 22202 | 720p, with ThinkShutter, fixed focus |
 | Battery | SMP 02DL005 | Integrated Li-Polymer 4c 51Wh battery, supports Rapid Charge (charge up to 80% in 1hr) with 65W AC adapter |
 | Display | Lenovo LP140WF9-SPF1 (LEN40A9) | 14.0" (355mm) HDR HD (1920 x 1080) |
 | Input | PS2 Keyboard & Synaptics I2C HID TrackPad | - |
