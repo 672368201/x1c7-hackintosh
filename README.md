@@ -89,8 +89,8 @@ Should you find an error, or improve anything, be it in the config itself or in 
 <summary><strong>NOT WORKING ❌</strong></summary>
 <br>
 
-| Feature                              | Status | Dependency          | Remarks                      |
-| :----------------------------------- | ------ | ------------------- | ---------------------------- |
+| Feature | Status | Dependency | Remarks |
+| :------ | ------ | ---------- | ------- |
 | Fingerprint Reader | ❌ | - | Will never work |
 | Wireless WAN | ❌ | `DISABLED` in BIOS to save power. | Unable to investigate as I have no need and my model did not come with WWAN |
 | DRM | ❌ | iGPU | DRM is broken with iGPUs |
@@ -107,8 +107,8 @@ Should you find an error, or improve anything, be it in the config itself or in 
 <summary><strong>UNTESTED ⚠️</strong></summary>
 <br>
 
-| Feature                              | Status | Dependency          | Remarks                      |
-| :----------------------------------- | ------ | ------------------- | ---------------------------- |
+| Feature | Status | Dependency | Remarks |
+| :------ | ------ | ---------- | ------- |
 | Thunderbolt 3 | ⚠️ | - | No device to test |
 | Boot chime | ⚠️ | - | Not yet configured |
 | FireVault 2 | ⚠️ | - | Not yet tested |
@@ -121,8 +121,8 @@ Should you find an error, or improve anything, be it in the config itself or in 
 <summary><strong>TO-DO ⏳</strong></summary>
 <br>
 
-| Feature                              | Status | Remarks                      |
-| :----------------------------------- | ------ | ---------------------------- |
+| Feature | Status | Remarks |
+| :------ | ------ | ------- |
 | Battery Life | ⏳ | Between 3 and 4 hours but it still takes time to thoroughly test the battery life and compare it with Windows 11 |
 
 </details>
@@ -171,8 +171,8 @@ It should work and your X1C7 should boot and work fine. **You will at minimum ne
 
 These are relevant components on my machine which may differ from yours, keep these in mind as you will need to adjust accordingly, depending on your machine's configuration.
 
-| Category  | Component                                       | Note                                                         |
-| --------- | ----------------------------------------------- | ------------------------------------------------------------ |
+| Category  | Component | Note |
+| --------- | --------- | ---- |
 | Processor | Intel® Core™ i7-10710U CPU @ 1.10 GHz | 6 Cores, 12 Threads, Base Frequency 1.10 GHz, Max Turbo Frequency 4.70 GHz, TDP 15W |
 | Graphics | Intel® UHD Graphics 620 (Intel® Comet Lake-U v1 GT2) | Base Frequency 300 MHz, Max Dynamic Frequency 1.15 GHz, Video Max Memory 32GB, Max Resolution 4096 x 2304@24Hz, 3 Displays Supported |
 | Memory | SK Hynix 8GB LPDDR3 2133MHz x2 | 16GB in total, soldered memory, not upgradable |
@@ -196,7 +196,7 @@ Refer to [ThinkPad X1 Carbon (7th Gen) Specs](https://psref.lenovo.com/syspool/S
 <br>
 
 | Component | Version |
-| -------------- | ------- |
+| --------- | ------- |
 | OpenCore | 0.7.9 (Release) |
 | macOS Monterey | 12.2.1 (21D62) |
 
@@ -205,8 +205,8 @@ Refer to [ThinkPad X1 Carbon (7th Gen) Specs](https://psref.lenovo.com/syspool/S
 <details><summary><strong>UEFI DRIVERS</strong></summary>
 <br>
 
-|    Component    | Version           |
-| --------------- | ----------------- |
+| Component | Version |
+| --------- | ------- |
 | AudioDxe.efi | OpenCorePkg 0.7.9 |
 | OpenCanopy.efi | OpenCorePkg 0.7.9 |
 | OpenHfsPlus.efi | OpenCorePkg 0.7.9 |
@@ -218,8 +218,8 @@ Refer to [ThinkPad X1 Carbon (7th Gen) Specs](https://psref.lenovo.com/syspool/S
 <summary><strong>ACPI</strong></summary>
 <br>
 
-| Component              |
-| ---------------------- |
+| Component |
+| --------- |
 | SSDT-AWAC.aml |
 | SSDT-PLUG.aml |
 | SSDT-PNLF.aml |
@@ -232,8 +232,8 @@ Refer to [ThinkPad X1 Carbon (7th Gen) Specs](https://psref.lenovo.com/syspool/S
 <summary><strong>KERNEL EXTENSION</strong></summary>
 <br>
 
-| Component              | Version |
-| ---------------------- | ------- |
+| Component | Version |
+| --------- | ------- |
 | AirportItlwm.kext | 2.1.0 |
 | AppleALC.kext | 1.7.0 |
 | BlueToolFixup.kext | 2.6.1 |
@@ -330,8 +330,8 @@ Format is lang-COUNTRY:keyboard
 
 🇺🇸 | [0] en_US - U.S --> en-US:0 --> (656e2d55 533a30 in HEX)
 
-| Key           | Type   | Value   |
-| ------------- | ------ | ------- |
+| Key | Type | Value |
+| --- | ---- | ----- |
 | prev-lang:kbd | String | en-US:0 |
 
 
