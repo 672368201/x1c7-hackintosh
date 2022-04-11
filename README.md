@@ -1,6 +1,6 @@
 # OpenCore for macOS on ThinkPad X1 Carbon 7th, 20R1-0005CD
 
-OpenCore-based EFI bootloader for Lenovo ThinkPad X1 Carbon 7th Generation, Type 20R1-0005CD
+An OpenCore bootloader to boot macOS on Lenovo ThinkPad X1 Carbon 7th Generation, Type 20R1-0005CD
 
 **Status: Work In Progress | Stable | Daily driver**
 
