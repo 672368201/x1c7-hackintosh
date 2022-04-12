@@ -234,11 +234,11 @@ Refer to [ThinkPad X1 Carbon (7th Gen) Specs](https://psref.lenovo.com/syspool/S
 
 | Component | Version |
 | --------- | ------- |
-| [AirportItlwm.kext](https://github.com/OpenIntelWireless/itlwm) | 2.1.0 |
-| [AppleALC.kext](https://github.com/acidanthera/AppleALC) | 1.7.0 |
-| [BlueToolFixup.kext](https://github.com/acidanthera/BrcmPatchRAM) | 2.6.1 |
-| [BrightnessKeys.kext](https://github.com/acidanthera/BrightnessKeys) | 1.0.2 |
-| [CPUFriend.kext](https://github.com/acidanthera/CPUFriend) | 1.2.4 |
+| [AirportItlwm.kext](https://github.com/OpenIntelWireless/itlwm) | [2.1.0](https://github.com/OpenIntelWireless/itlwm/releases/tag/v2.1.0) |
+| [AppleALC.kext](https://github.com/acidanthera/AppleALC) | [1.7.0](https://github.com/acidanthera/AppleALC/releases/tag/1.7.0) |
+| [BlueToolFixup.kext](https://github.com/acidanthera/BrcmPatchRAM) | [2.6.1](https://github.com/acidanthera/BrcmPatchRAM/releases/tag/2.6.1) |
+| [BrightnessKeys.kext](https://github.com/acidanthera/BrightnessKeys) | [1.0.2](https://github.com/acidanthera/BrightnessKeys/releases/tag/1.0.2) |
+| [CPUFriend.kext](https://github.com/acidanthera/CPUFriend) | [1.2.4](https://github.com/acidanthera/CPUFriend/releases/tag/1.2.4) |
 | [CPUFriendDataProvider.kext](https://github.com/corpnewt/CPUFriendFriend) | 1.0.0 |
 | [ECEnabler.kext](https://github.com/1Revenger1/ECEnabler) | 1.0.2 |
 | [IntelBluetoothFirmware.kext](https://github.com/OpenIntelWireless/IntelBluetoothFirmware) | 2.1.0 |
