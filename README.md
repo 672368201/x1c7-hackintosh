@@ -239,7 +239,7 @@ Refer to [ThinkPad X1 Carbon (7th Gen) Specs](https://psref.lenovo.com/syspool/S
 | [BlueToolFixup.kext](https://github.com/acidanthera/BrcmPatchRAM) | 2.6.1 |
 | [BrightnessKeys.kext](https://github.com/acidanthera/BrightnessKeys) | 1.0.2 |
 | [CPUFriend.kext](https://github.com/acidanthera/CPUFriend) | 1.2.4 |
-| [CPUFriendDataProvider.kext](https://github.com/corpnewt/CPUFriendFriend) | - |
+| [CPUFriendDataProvider.kext](https://github.com/corpnewt/CPUFriendFriend) | 1.0.0 |
 | [ECEnabler.kext](https://github.com/1Revenger1/ECEnabler) | 1.0.2 |
 | [IntelBluetoothFirmware.kext](https://github.com/OpenIntelWireless/IntelBluetoothFirmware) | 2.1.0 |
 | [IntelMausi.kext](https://github.com/acidanthera/IntelMausi) | 1.0.7 |
@@ -249,7 +249,7 @@ Refer to [ThinkPad X1 Carbon (7th Gen) Specs](https://psref.lenovo.com/syspool/S
 | [SMCProcessor.kext](https://github.com/acidanthera/VirtualSMC) | 1.2.8 |
 | [SMCSuperIO.kext](https://github.com/acidanthera/VirtualSMC) | 1.2.8 |
 | [USBToolBox.kext](https://github.com/USBToolBox/kext) | 1.1.1 |
-| [UTBMap.kext](https://github.com/USBToolBox/tool) | - |
+| [UTBMap.kext](https://github.com/USBToolBox/tool) | 1.1 |
 | [VirtualSMC.kext](https://github.com/acidanthera/VirtualSMC) | 1.2.9 |
 | [VoodooI2C.kext](https://github.com/VoodooI2C/VoodooI2C) | 2.7 |
 | [VoodooI2CHID.kext](https://github.com/VoodooI2C/VoodooI2C) | 2.7 |
