@@ -197,8 +197,8 @@ Refer to [ThinkPad X1 Carbon (7th Gen) Specs](https://psref.lenovo.com/syspool/S
 
 | Component | Version |
 | --------- | ------- |
-| OpenCore | 0.7.9 (Release) |
-| macOS Monterey | 12.2.1 (21D62) |
+| [OpenCore](https://github.com/acidanthera/OpenCorePkg) | 0.7.9 (Release) |
+| [macOS Monterey](https://www.apple.com/macos/monterey/) | 12.2.1 (21D62) |
 
 </details>
 
@@ -234,27 +234,27 @@ Refer to [ThinkPad X1 Carbon (7th Gen) Specs](https://psref.lenovo.com/syspool/S
 
 | Component | Version |
 | --------- | ------- |
-| AirportItlwm.kext | 2.1.0 |
-| AppleALC.kext | 1.7.0 |
-| BlueToolFixup.kext | 2.6.1 |
-| BrightnessKeys.kext | 1.0.2 |
-| CPUFriend.kext | 1.2.4 |
-| CPUFriendDataProvider.kext |  |
-| ECEnabler.kext | 1.0.2 |
-| IntelBluetoothFirmware.kext | 2.1.0 |
-| IntelMausi.kext | 1.0.7 |
-| Lilu.kext | 1.6.0 |
-| NVMeFix.kext | 1.0.9 |
-| SMCBatteryManager.kext | 1.2.8 |
-| SMCProcessor.kext | 1.2.8 |
-| SMCSuperIO.kext | 1.2.8 |
-| USBToolBox.kext | 0.1.1 |
-| UTBMap.kext |  |
-| VirtualSMC.kext | 1.2.9 |
-| VoodooI2C.kext | 2.7 |
-| VoodooI2CHID.kext | 2.7 |
-| VoodooPS2Controller.kext | 2.2.8 |
-| WhateverGreen.kext | 1.5.8 |
+| [AirportItlwm.kext](https://github.com/OpenIntelWireless/itlwm) | 2.1.0 |
+| [AppleALC.kext](https://github.com/acidanthera/AppleALC) | 1.7.0 |
+| [BlueToolFixup.kext](https://github.com/acidanthera/BrcmPatchRAM) | 2.6.1 |
+| [BrightnessKeys.kext](https://github.com/acidanthera/BrightnessKeys) | 1.0.2 |
+| [CPUFriend.kext](https://github.com/acidanthera/CPUFriend) | 1.2.4 |
+| [CPUFriendDataProvider.kext](https://github.com/corpnewt/CPUFriendFriend) | - |
+| [ECEnabler.kext](https://github.com/1Revenger1/ECEnabler) | 1.0.2 |
+| [IntelBluetoothFirmware.kext](https://github.com/OpenIntelWireless/IntelBluetoothFirmware) | 2.1.0 |
+| [IntelMausi.kext](https://github.com/acidanthera/IntelMausi) | 1.0.7 |
+| [Lilu.kext](https://github.com/acidanthera/Lilu) | 1.6.0 |
+| [NVMeFix.kext](https://github.com/acidanthera/NVMeFix) | 1.0.9 |
+| [SMCBatteryManager.kext](https://github.com/acidanthera/VirtualSMC) | 1.2.8 |
+| [SMCProcessor.kext](https://github.com/acidanthera/VirtualSMC) | 1.2.8 |
+| [SMCSuperIO.kext](https://github.com/acidanthera/VirtualSMC) | 1.2.8 |
+| [USBToolBox.kext](https://github.com/USBToolBox/kext) | 1.1.1 |
+| [UTBMap.kext](https://github.com/USBToolBox/tool) | - |
+| [VirtualSMC.kext](https://github.com/acidanthera/VirtualSMC) | 1.2.9 |
+| [VoodooI2C.kext](https://github.com/VoodooI2C/VoodooI2C) | 2.7 |
+| [VoodooI2CHID.kext](https://github.com/VoodooI2C/VoodooI2C) | 2.7 |
+| [VoodooPS2Controller.kext](https://github.com/acidanthera/VoodooPS2) | 2.2.8 |
+| [WhateverGreen.kext](https://github.com/acidanthera/WhateverGreen) | 1.5.8 |
 
 </details>
 
@@ -284,7 +284,7 @@ Refer to [ThinkPad X1 Carbon (7th Gen) Specs](https://psref.lenovo.com/syspool/S
 
 ### Credit to all these great people whom I don't know but have made my hackintosh dreams a reality:
 
-- [Apple](https://apple.com) for macOS
+- [Apple](https://apple.com) for [macOS](https://www.apple.com/macos)
 - The guys from [Acidanthera](https://github.com/acidanthera) that make this possible
 - [ben9923](https://github.com/ben9923) for [VoodooI2C](https://github.com/VoodooI2C/VoodooI2C)
 - [CorpNewt](https://github.com/corpnewt) for [CPUFriendDataProvider](https://github.com/corpnewt/CPUFriendFriend)
