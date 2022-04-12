@@ -52,7 +52,7 @@ Should you find an error, or improve anything, be it in the config itself or in 
 | Feature | Status | Dependency | Remarks |
 | :------ | ------ | ---------- | ------- |
 | WiFi | ✅ | `AirportIltwm.kext` | - |
-| Bluetooth | ✅ | `IntelBluetoothFirmware.kext`, `BlueToolFixup.kext`, and `UTBMap.kext` | Mouse and Keyboard not working via Bluetooth |
+| Bluetooth | ✅ | `BlueToolFixup.kext`, `IntelBluetoothFirmware.kext` and `UTBMap.kext` | Mouse and Keyboard not working via Bluetooth |
 | Ethernet | ✅ | `IntelMausi.kext` | - |
 | HDMI 1.4 | ✅ | BusID patching | Hotplug with 4K Resolution |
 | USB 2.0 / USB 3.0 | ✅ | `UTBMap.kext` | Create your own UTBMap.kext using [USBToolBoxᵇᵉᵗᵃ](https://github.com/USBToolBox/tool) |
