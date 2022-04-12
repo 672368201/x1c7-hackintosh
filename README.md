@@ -221,8 +221,8 @@ Refer to [ThinkPad X1 Carbon (7th Gen) Specs](https://psref.lenovo.com/syspool/S
 | Component | Source |
 | --------- | ------ |
 | SSDT-AWAC.aml | SSDTTime |
-| [SSDT-PLUG.aml](https://github.com/dortania/Getting-Started-With-ACPI/blob/master/extra-files/compiled/SSDT-PLUG-DRTNIA.aml) | Prebuilt |
-| SSDT-PNLF.aml | SSDTTime |
+| SSDT-PLUG.aml | SSDTTime |
+| [SSDT-PNLF.aml](https://github.com/dortania/Getting-Started-With-ACPI/blob/master/extra-files/compiled/SSDT-PNLF.aml) | Prebuilt |
 | [SSDT-USBX.aml](https://github.com/dortania/OpenCore-Post-Install/blob/master/extra-files/SSDT-USBX.aml) | Prebuilt |
 | [SSDT-XOSI.aml](https://github.com/dortania/Getting-Started-With-ACPI/blob/master/extra-files/compiled/SSDT-XOSI.aml) | Prebuilt |
 
