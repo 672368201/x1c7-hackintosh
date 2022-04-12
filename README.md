@@ -242,6 +242,7 @@ Refer to [ThinkPad X1 Carbon (7th Gen) Specs](https://psref.lenovo.com/syspool/S
 | [CPUFriendDataProvider.kext](https://github.com/corpnewt/CPUFriendFriend) | 1.0.0 |
 | [ECEnabler.kext](https://github.com/1Revenger1/ECEnabler) | [1.0.2](https://github.com/1Revenger1/ECEnabler/releases/tag/1.0.2) |
 | [IntelBluetoothFirmware.kext](https://github.com/OpenIntelWireless/IntelBluetoothFirmware) | [2.1.0](https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases/tag/v2.1.0) |
+| [IntelBluetoothInjector.kext](https://github.com/OpenIntelWireless/IntelBluetoothFirmware) | [2.1.0](https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases/tag/v2.1.0) |
 | [IntelMausi.kext](https://github.com/acidanthera/IntelMausi) | [1.0.7](https://github.com/acidanthera/IntelMausi/releases/tag/1.0.7) |
 | [Lilu.kext](https://github.com/acidanthera/Lilu) | [1.6.0](https://github.com/acidanthera/Lilu/releases/tag/1.6.0) |
 | [NVMeFix.kext](https://github.com/acidanthera/NVMeFix) | [1.0.9](https://github.com/acidanthera/NVMeFix/releases/tag/1.0.9) |
