@@ -245,9 +245,9 @@ Refer to [ThinkPad X1 Carbon (7th Gen) Specs](https://psref.lenovo.com/syspool/S
 | [IntelMausi.kext](https://github.com/acidanthera/IntelMausi) | 1.0.7 |
 | [Lilu.kext](https://github.com/acidanthera/Lilu) | 1.6.0 |
 | [NVMeFix.kext](https://github.com/acidanthera/NVMeFix) | 1.0.9 |
-| [SMCBatteryManager.kext](https://github.com/acidanthera/VirtualSMC) | 1.2.8 |
-| [SMCProcessor.kext](https://github.com/acidanthera/VirtualSMC) | 1.2.8 |
-| [SMCSuperIO.kext](https://github.com/acidanthera/VirtualSMC) | 1.2.8 |
+| [SMCBatteryManager.kext](https://github.com/acidanthera/VirtualSMC) | 1.2.9 |
+| [SMCProcessor.kext](https://github.com/acidanthera/VirtualSMC) | 1.2.9 |
+| [SMCSuperIO.kext](https://github.com/acidanthera/VirtualSMC) | 1.2.9 |
 | [USBToolBox.kext](https://github.com/USBToolBox/kext) | 1.1.1 |
 | [UTBMap.kext](https://github.com/USBToolBox/tool) | 1.1 |
 | [VirtualSMC.kext](https://github.com/acidanthera/VirtualSMC) | 1.2.9 |
