@@ -46,7 +46,7 @@ Should you find an error, or improve anything, be it in the config itself or in 
 | CPU Power Management (SpeedShift) | ✅ | `CPUFriend.kext` with `CPUFriendDataProvider.kext` | - |
 | iGPU Power Management | ✅ | `SSDT-PLUG.aml` | - |
 | NVMe Drive Battery Management | ✅ | `NVMeFix.kext` | Improve NVMe drive power management |
-| S3 Sleep / Hibernation Mode 3 | ✅ | `hibernatemode` = `0` | - |
+| Hibernation | ✅ | `HibernateMode` = `Auto` in OpenCore and `hibernatemode` = `0` in macOS | - |
 
 > ### Connectivity
 | Feature | Status | Dependency | Remarks |
