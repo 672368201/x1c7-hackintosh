@@ -10,7 +10,7 @@ An OpenCore bootloader to boot macOS on Lenovo ThinkPad X1 Carbon 7th Generation
 
 This repository is forked from several X1C Hackintosh repositories (See **REFERENCES**).
 
-This README file is modified from [HJebbour/ThinkPad-X1C8-Hackintosh](https://github.com/HJebbour/ThinkPad-X1C8-Hackintosh/blob/main/README.md).
+This README file is modified from [HJebbour/ThinkPad-X1C8-Hackintosh/README.md](https://github.com/HJebbour/ThinkPad-X1C8-Hackintosh/blob/main/README.md).
 
 **DISCLAIMER:**
 As you embark on your Hackintosh journey you are encouraged to **READ** the entire README and [Dortania](https://dortania.github.io/getting-started/) guides before you start.
@@ -81,7 +81,7 @@ Should you find an error, or improve anything, be it in the config itself or in 
 > ### Miscellaneous
 | Feature | Status | Dependency | Remarks |
 | :------ | ------ | ---------- | ------- |
-| Multiboot | ✅ | - | Windows & macOS (See [Multiboot with OpenCore](https://dortania.github.io/OpenCore-Multiboot/) to setup multiboot) |
+| Multiboot | ⚠️ | - | No sound in Windows booting from OpenCore (See [Multiboot with OpenCore](https://dortania.github.io/OpenCore-Multiboot/) to setup multiboot) |
 
 </details>  
 
