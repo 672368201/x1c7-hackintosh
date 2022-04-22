@@ -5,7 +5,7 @@ An OpenCore bootloader to boot macOS on Lenovo ThinkPad X1 Carbon 7th Generation
 **Status: Work In Progress | Stable | Daily driver**
 
 [![macOS](https://img.shields.io/badge/macOS-Monterey-blueviolet.svg)](https://www.apple.com/macos/monterey/)
-[![OpenCore](https://img.shields.io/badge/OpenCore-0.7.9-blue.svg)](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.7.9)
+[![OpenCore](https://img.shields.io/badge/OpenCore-0.8.0-blue.svg)](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.8.0)
 [![Model](https://img.shields.io/badge/Model-20R1-red)](https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadx1/x1-carbon-gen-7/22tp2txx17g)
 
 This repository is forked from several X1C Hackintosh repositories (See **REFERENCES**).
@@ -138,7 +138,7 @@ This is not a guide. It shoud only be used as a reference. I provide some tips a
 I understand that some may simply add the OC and Boot folders to their EFI folder. For clarity the EFI partition needs a folder called EFI that contains the Boot and OC folder.
 
 ```EFI
-EFI/ESP (Drive or partition)
+EFI / ESP (Drive or partition)
     ├──EFI
         ├── BOOT
         ├── OC
@@ -220,16 +220,16 @@ Refer to [ThinkPad X1 Carbon (7th Gen) Specs](https://psref.lenovo.com/syspool/S
 
 | Component | Source |
 | --------- | ------ |
-| SSDT-AWAC.aml | SSDTTime |
-| SSDT-PLUG.aml | SSDTTime |
-| [SSDT-PNLF.aml](https://github.com/dortania/Getting-Started-With-ACPI/blob/master/extra-files/compiled/SSDT-PNLF.aml) | Prebuilt |
-| [SSDT-USBX.aml](https://github.com/dortania/OpenCore-Post-Install/blob/master/extra-files/SSDT-USBX.aml) | Prebuilt |
-| [SSDT-XOSI.aml](https://github.com/dortania/Getting-Started-With-ACPI/blob/master/extra-files/compiled/SSDT-XOSI.aml) | Prebuilt |
+| SSDT-AWAC.aml | [SSDTTime](https://github.com/corpnewt/SSDTTime) |
+| SSDT-PLUG.aml | [SSDTTime](https://github.com/corpnewt/SSDTTime) |
+| SSDT-PNLF.aml | [Prebuilt](https://github.com/dortania/Getting-Started-With-ACPI/blob/master/extra-files/compiled/SSDT-PNLF.aml) |
+| SSDT-USBX.aml | [Prebuilt](https://github.com/dortania/OpenCore-Post-Install/blob/master/extra-files/SSDT-USBX.aml) |
+| SSDT-XOSI.aml | [Prebuilt](https://github.com/dortania/Getting-Started-With-ACPI/blob/master/extra-files/compiled/SSDT-XOSI.aml) |
 
 </details>
 
 <details>
-<summary><strong>KERNEL EXTENSION</strong></summary>
+<summary><strong>KEXT</strong></summary>
 <br>
 
 | Component | Version |
