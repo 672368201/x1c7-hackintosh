@@ -220,11 +220,11 @@ Refer to [ThinkPad X1 Carbon (7th Gen) Specs](https://psref.lenovo.com/syspool/S
 
 | Component | Source |
 | --------- | ------ |
-| SSDT-AWAC.aml | [SSDTTime](https://github.com/corpnewt/SSDTTime) |
-| SSDT-PLUG.aml | [SSDTTime](https://github.com/corpnewt/SSDTTime) |
-| SSDT-PNLF.aml | [Prebuilt](https://github.com/dortania/Getting-Started-With-ACPI/blob/master/extra-files/compiled/SSDT-PNLF.aml) |
-| SSDT-USBX.aml | [Prebuilt](https://github.com/dortania/OpenCore-Post-Install/blob/master/extra-files/SSDT-USBX.aml) |
-| SSDT-XOSI.aml | [Prebuilt](https://github.com/dortania/Getting-Started-With-ACPI/blob/master/extra-files/compiled/SSDT-XOSI.aml) |
+| [SSDT-AWAC.aml](https://dortania.github.io/Getting-Started-With-ACPI/Universal/awac.html) | [Prebuilt](https://github.com/dortania/Getting-Started-With-ACPI/blob/master/extra-files/compiled/SSDT-AWAC.aml), [SSDTTime](https://github.com/corpnewt/SSDTTime) |
+| [SSDT-PLUG.aml](https://dortania.github.io/Getting-Started-With-ACPI/Universal/plug.html) | [Prebuilt](https://github.com/dortania/Getting-Started-With-ACPI/blob/master/extra-files/compiled/SSDT-PLUG-DRTNIA.aml), [SSDTTime](https://github.com/corpnewt/SSDTTime) |
+| [SSDT-PNLF.aml](https://dortania.github.io/Getting-Started-With-ACPI/Laptops/backlight.html) | [Prebuilt](https://github.com/dortania/Getting-Started-With-ACPI/blob/master/extra-files/compiled/SSDT-PNLF.aml) |
+| [SSDT-USBX.aml](https://dortania.github.io/Getting-Started-With-ACPI/Universal/ec-fix.html) | [Prebuilt](https://github.com/dortania/OpenCore-Post-Install/blob/master/extra-files/SSDT-USBX.aml) |
+| [SSDT-XOSI.aml](https://dortania.github.io/Getting-Started-With-ACPI/Laptops/trackpad.html) | [Prebuilt](https://github.com/dortania/Getting-Started-With-ACPI/blob/master/extra-files/compiled/SSDT-XOSI.aml) |
 
 </details>
 
