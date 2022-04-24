@@ -198,7 +198,7 @@ Refer to [ThinkPad X1 Carbon (7th Gen) Specs](https://psref.lenovo.com/syspool/S
 | Component | Version |
 | --------- | ------- |
 | [OpenCore](https://github.com/acidanthera/OpenCorePkg) | [0.8.0](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.8.0) [(Release)](https://github.com/acidanthera/OpenCorePkg/releases/download/0.8.0/OpenCore-0.8.0-RELEASE.zip) |
-| [macOS Monterey](https://www.apple.com/macos/monterey/) | 12.2.1 (21E258) |
+| [macOS Monterey](https://www.apple.com/macos/monterey/) | 12.3.1 (21E258) |
 
 </details>
 
