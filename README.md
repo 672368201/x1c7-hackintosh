@@ -197,7 +197,7 @@ Refer to [ThinkPad X1 Carbon (7th Gen) Specs](https://psref.lenovo.com/syspool/S
 
 | Component | Version |
 | --------- | ------- |
-| [OpenCore](https://github.com/acidanthera/OpenCorePkg) | [0.8.0](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.8.0) [(Release)](https://github.com/acidanthera/OpenCorePkg/releases/download/0.8.0/OpenCore-0.8.0-RELEASE.zip) |
+| [OpenCore](https://github.com/acidanthera/OpenCorePkg) | [0.8.1](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.8.1) [(Release)](https://github.com/acidanthera/OpenCorePkg/releases/download/0.8.1/OpenCore-0.8.1-RELEASE.zip) |
 | [macOS Monterey](https://www.apple.com/macos/monterey/) | [12.4 (21F79)](https://developer.apple.com/news/releases/?id=05162022e) |
 
 </details>
@@ -207,10 +207,12 @@ Refer to [ThinkPad X1 Carbon (7th Gen) Specs](https://psref.lenovo.com/syspool/S
 
 | Component | Version |
 | --------- | ------- |
-| AudioDxe.efi | OpenCorePkg 0.8.0 |
-| OpenCanopy.efi | OpenCorePkg 0.8.0 |
-| OpenHfsPlus.efi | OpenCorePkg 0.8.0 |
-| OpenRuntime.efi | OpenCorePkg 0.8.0 |
+| AudioDxe.efi | OpenCorePkg 0.8.1 |
+| OpenCanopy.efi | OpenCorePkg 0.8.1 |
+| OpenHfsPlus.efi | OpenCorePkg 0.8.1 |
+| OpenRuntime.efi | OpenCorePkg 0.8.1 |
+| ResetNvramEntry.efi | OpenCorePkg 0.8.1 |
+| ToggleSipEntry.efi | OpenCorePkg 0.8.1 |
 
 </details>
 
