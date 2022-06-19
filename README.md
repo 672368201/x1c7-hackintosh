@@ -1,11 +1,11 @@
 # OpenCore for macOS on ThinkPad X1 Carbon 7th, 20R1-0005CD
 
-An OpenCore bootloader to boot macOS on Lenovo ThinkPad X1 Carbon 7th Generation, Type 20R1-0005CD
+An OpenCore-based bootloader to boot macOS on Lenovo ThinkPad X1 Carbon 7th Generation, Type 20R1-0005CD
 
 **Status: Work In Progress | Stable | Daily driver**
 
 [![macOS](https://img.shields.io/badge/macOS-Monterey-blueviolet.svg)](https://www.apple.com/macos/monterey/)
-[![OpenCore](https://img.shields.io/badge/OpenCore-0.8.0-blue.svg)](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.8.0)
+[![OpenCore](https://img.shields.io/badge/OpenCore-0.8.1-blue.svg)](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.8.1)
 [![Model](https://img.shields.io/badge/Model-20R1-red)](https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadx1/x1-carbon-gen-7/22tp2txx17g)
 
 This repository is forked from several X1C Hackintosh repositories (See **REFERENCES**).
