@@ -5,7 +5,7 @@ An OpenCore-based bootloader to boot macOS on Lenovo ThinkPad X1 Carbon 7th Gene
 **Status: Work In Progress | Stable | Daily driver**
 
 [![macOS](https://img.shields.io/badge/macOS-Monterey-blueviolet.svg)](https://www.apple.com/macos/monterey/)
-[![OpenCore](https://img.shields.io/badge/OpenCore-0.8.1-blue.svg)](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.8.1)
+[![OpenCore](https://img.shields.io/badge/OpenCore-0.8.2-blue.svg)](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.8.2)
 [![Model](https://img.shields.io/badge/Model-20R1-red)](https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadx1/x1-carbon-gen-7/22tp2txx17g)
 
 This repository is forked from several X1C Hackintosh repositories (See **REFERENCES**).
@@ -197,7 +197,7 @@ Refer to [ThinkPad X1 Carbon (7th Gen) Specs](https://psref.lenovo.com/syspool/S
 
 | Component | Version |
 | --------- | ------- |
-| [OpenCore](https://github.com/acidanthera/OpenCorePkg) | [0.8.1](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.8.1) [(Release)](https://github.com/acidanthera/OpenCorePkg/releases/download/0.8.1/OpenCore-0.8.1-RELEASE.zip) |
+| [OpenCore](https://github.com/acidanthera/OpenCorePkg) | [0.8.2](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.8.2) [(Release)](https://github.com/acidanthera/OpenCorePkg/releases/download/0.8.2/OpenCore-0.8.2-RELEASE.zip) |
 | [macOS Monterey](https://www.apple.com/macos/monterey/) | [12.4 (21F79)](https://developer.apple.com/news/releases/?id=05162022e) |
 
 </details>
@@ -207,12 +207,12 @@ Refer to [ThinkPad X1 Carbon (7th Gen) Specs](https://psref.lenovo.com/syspool/S
 
 | Component | Version |
 | --------- | ------- |
-| AudioDxe.efi | OpenCorePkg 0.8.1 |
-| OpenCanopy.efi | OpenCorePkg 0.8.1 |
-| OpenHfsPlus.efi | OpenCorePkg 0.8.1 |
-| OpenRuntime.efi | OpenCorePkg 0.8.1 |
-| ResetNvramEntry.efi | OpenCorePkg 0.8.1 |
-| ToggleSipEntry.efi | OpenCorePkg 0.8.1 |
+| AudioDxe.efi | OpenCorePkg 0.8.2 |
+| OpenCanopy.efi | OpenCorePkg 0.8.2 |
+| OpenHfsPlus.efi | OpenCorePkg 0.8.2 |
+| OpenRuntime.efi | OpenCorePkg 0.8.2 |
+| ResetNvramEntry.efi | OpenCorePkg 0.8.2 |
+| ToggleSipEntry.efi | OpenCorePkg 0.8.2 |
 
 </details>
 
