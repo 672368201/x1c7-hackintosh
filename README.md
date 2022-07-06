@@ -238,7 +238,7 @@ Refer to [ThinkPad X1 Carbon (7th Gen) Specs](https://psref.lenovo.com/syspool/S
 | --------- | ------- |
 | [AirportItlwm.kext](https://github.com/OpenIntelWireless/itlwm) | [2.1.0](https://github.com/OpenIntelWireless/itlwm/releases/tag/v2.1.0) |
 | [AppleALC.kext](https://github.com/acidanthera/AppleALC) | [1.7.3](https://github.com/acidanthera/AppleALC/releases/tag/1.7.3) |
-| [BlueToolFixup.kext](https://github.com/acidanthera/BrcmPatchRAM) | [2.6.2](https://github.com/acidanthera/BrcmPatchRAM/releases/tag/2.6.2) |
+| [BlueToolFixup.kext](https://github.com/acidanthera/BrcmPatchRAM) | [2.6.3](https://github.com/acidanthera/BrcmPatchRAM/releases/tag/2.6.3) |
 | [BrightnessKeys.kext](https://github.com/acidanthera/BrightnessKeys) | [1.0.3](https://github.com/acidanthera/BrightnessKeys/releases/tag/1.0.3) |
 | [CPUFriend.kext](https://github.com/acidanthera/CPUFriend) | [1.2.6](https://github.com/acidanthera/CPUFriend/releases/tag/1.2.6) |
 | [CPUFriendDataProvider.kext](https://github.com/corpnewt/CPUFriendFriend) | 1.0.0 |
