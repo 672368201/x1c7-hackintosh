@@ -318,7 +318,6 @@ Refer to [ThinkPad X1 Carbon (7th Gen) Specs](https://psref.lenovo.com/syspool/S
 Use [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) to create your own PlatformInfo based on your preferred model.
 
 - MacBookPro16,3 -`What I used`
-- MacBookPro16,2 -`Used by others`
 
 **Note:** If you use a different SMBIOS model than the MacbookPro16,3 that I've used. The provided USB mapping will not work.  You will need to edit the `UTBMap.kext` file.  You can right click on the file and select **Show Package Contents**.  From there you can open the Info.plist file in ProperTree and change MacBookPro16,3 to whatever Model ID you've chosen. This should provide a working UTBMap.kext.
 
