@@ -900,7 +900,7 @@
 			<key>ConsoleAttributes</key>
 			<integer>0</integer>
 			<key>HibernateMode</key>
-			<string>Auto</string>
+			<string>None</string>
 			<key>HideAuxiliary</key>
 			<true/>
 			<key>LauncherOption</key>
@@ -1080,10 +1080,10 @@
 				<string>ForceDisplayRotationInEFI</string>
 			</array>
 		</dict>
-		<key>LegacyEnable</key>
-		<false/>
 		<key>LegacyOverwrite</key>
 		<false/>
+		<key>WriteFlash</key>
+		<true/>
 		<key>LegacySchema</key>
 		<dict>
 			<key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
@@ -1112,8 +1112,6 @@
 				<string>BootOrder</string>
 			</array>
 		</dict>
-		<key>WriteFlash</key>
-		<true/>
 	</dict>
 	<key>PlatformInfo</key>
 	<dict>
@@ -1231,6 +1229,8 @@
 				<string>AudioDxe.efi</string>
 				<key>Enabled</key>
 				<true/>
+				<key>LoadEarly</key>
+				<false/>
 				<key>Path</key>
 				<string>AudioDxe.efi</string>
 			</dict>
@@ -1241,6 +1241,8 @@
 				<string>OpenCanopy.efi</string>
 				<key>Enabled</key>
 				<true/>
+				<key>LoadEarly</key>
+				<false/>
 				<key>Path</key>
 				<string>OpenCanopy.efi</string>
 			</dict>
@@ -1251,6 +1253,8 @@
 				<string>OpenHfsPlus.efi</string>
 				<key>Enabled</key>
 				<true/>
+				<key>LoadEarly</key>
+				<false/>
 				<key>Path</key>
 				<string>OpenHfsPlus.efi</string>
 			</dict>
@@ -1261,6 +1265,8 @@
 				<string>OpenRuntime.efi</string>
 				<key>Enabled</key>
 				<true/>
+				<key>LoadEarly</key>
+				<false/>
 				<key>Path</key>
 				<string>OpenRuntime.efi</string>
 			</dict>
@@ -1271,6 +1277,8 @@
 				<string>ResetNvramEntry.efi</string>
 				<key>Enabled</key>
 				<true/>
+				<key>LoadEarly</key>
+				<false/>
 				<key>Path</key>
 				<string>ResetNvramEntry.efi</string>
 			</dict>
@@ -1281,6 +1289,8 @@
 				<string>ToggleSipEntry.efi</string>
 				<key>Enabled</key>
 				<true/>
+				<key>LoadEarly</key>
+				<false/>
 				<key>Path</key>
 				<string>ToggleSipEntry.efi</string>
 			</dict>
