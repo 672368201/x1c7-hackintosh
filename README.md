@@ -237,7 +237,7 @@ Refer to [ThinkPad X1 Carbon (7th Gen) Specs](https://psref.lenovo.com/syspool/S
 | Component | Version |
 | --------- | ------- |
 | [AirportItlwm.kext](https://github.com/OpenIntelWireless/itlwm) | [2.1.0](https://github.com/OpenIntelWireless/itlwm/releases/tag/v2.1.0) |
-| [AppleALC.kext](https://github.com/acidanthera/AppleALC) | [1.7.3](https://github.com/acidanthera/AppleALC/releases/tag/1.7.3) |
+| [AppleALC.kext](https://github.com/acidanthera/AppleALC) | [1.7.4](https://github.com/acidanthera/AppleALC/releases/tag/1.7.4) |
 | [BlueToolFixup.kext](https://github.com/acidanthera/BrcmPatchRAM) | [2.6.3](https://github.com/acidanthera/BrcmPatchRAM/releases/tag/2.6.3) |
 | [BrightnessKeys.kext](https://github.com/acidanthera/BrightnessKeys) | [1.0.3](https://github.com/acidanthera/BrightnessKeys/releases/tag/1.0.3) |
 | [CPUFriend.kext](https://github.com/acidanthera/CPUFriend) | [1.2.6](https://github.com/acidanthera/CPUFriend/releases/tag/1.2.6) |
@@ -246,7 +246,7 @@ Refer to [ThinkPad X1 Carbon (7th Gen) Specs](https://psref.lenovo.com/syspool/S
 | [IntelBluetoothFirmware.kext](https://github.com/OpenIntelWireless/IntelBluetoothFirmware) | [2.1.0](https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases/tag/v2.1.0) |
 | [IntelBluetoothInjector.kext](https://github.com/OpenIntelWireless/IntelBluetoothFirmware) | [2.1.0](https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases/tag/v2.1.0) |
 | [IntelMausi.kext](https://github.com/acidanthera/IntelMausi) | [1.0.8](https://github.com/acidanthera/IntelMausi/releases/tag/1.0.8) |
-| [Lilu.kext](https://github.com/acidanthera/Lilu) | [1.6.1](https://github.com/acidanthera/Lilu/releases/tag/1.6.1) |
+| [Lilu.kext](https://github.com/acidanthera/Lilu) | [1.6.2](https://github.com/acidanthera/Lilu/releases/tag/1.6.2) |
 | [NVMeFix.kext](https://github.com/acidanthera/NVMeFix) | [1.1.0](https://github.com/acidanthera/NVMeFix/releases/tag/1.1.0) |
 | [SMCBatteryManager.kext](https://github.com/acidanthera/VirtualSMC) | [1.3.0](https://github.com/acidanthera/VirtualSMC/releases/tag/1.3.0) |
 | [SMCProcessor.kext](https://github.com/acidanthera/VirtualSMC) | [1.3.0](https://github.com/acidanthera/VirtualSMC/releases/tag/1.3.0) |
@@ -257,7 +257,7 @@ Refer to [ThinkPad X1 Carbon (7th Gen) Specs](https://psref.lenovo.com/syspool/S
 | [VoodooI2C.kext](https://github.com/VoodooI2C/VoodooI2C) | [2.7](https://github.com/VoodooI2C/VoodooI2C/releases/tag/2.7) |
 | [VoodooI2CHID.kext](https://github.com/VoodooI2C/VoodooI2C) | [2.7](https://github.com/VoodooI2C/VoodooI2C/releases/tag/2.7) |
 | [VoodooPS2Controller.kext](https://github.com/acidanthera/VoodooPS2) | [2.2.9](https://github.com/acidanthera/VoodooPS2/releases/tag/2.2.9) |
-| [WhateverGreen.kext](https://github.com/acidanthera/WhateverGreen) | [1.6.0](https://github.com/acidanthera/WhateverGreen/releases/tag/1.6.0) |
+| [WhateverGreen.kext](https://github.com/acidanthera/WhateverGreen) | [1.6.1](https://github.com/acidanthera/WhateverGreen/releases/tag/1.6.1) |
 
 </details>
 
