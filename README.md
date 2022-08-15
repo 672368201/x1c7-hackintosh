@@ -46,7 +46,7 @@ Should you find an error, or improve anything, be it in the config itself or in 
 | CPU Power Management (SpeedShift) | ✅ | `CPUFriend.kext` with `CPUFriendDataProvider.kext` | - |
 | iGPU Power Management | ✅ | `SSDT-PLUG.aml` | - |
 | NVMe Drive Battery Management | ✅ | `NVMeFix.kext` | Improve NVMe drive power management |
-| Hibernation | ✅ | `HibernateMode` = `None` in OpenCore and `hibernatemode` = `0` in macOS | - |
+| Hibernation | ✅ | `HibernateMode` = `Auto` in OpenCore and `hibernatemode` = `0` in macOS | - |
 
 > ### Connectivity
 | Feature | Status | Dependency | Remarks |
@@ -222,12 +222,12 @@ Refer to [ThinkPad X1 Carbon (7th Gen) Specs](https://psref.lenovo.com/syspool/S
 
 | Component | Source |
 | --------- | ------ |
-| [SSDT-AWAC.aml](https://dortania.github.io/Getting-Started-With-ACPI/Universal/awac.html) | [Prebuilt](https://github.com/dortania/Getting-Started-With-ACPI/blob/master/extra-files/compiled/SSDT-AWAC.aml), [SSDTTime](https://github.com/corpnewt/SSDTTime) |
+| [SSDT-AWAC.aml](https://dortania.github.io/Getting-Started-With-ACPI/Universal/awac.html) | [dortania](https://github.com/dortania/Getting-Started-With-ACPI/blob/master/extra-files/compiled/SSDT-AWAC.aml), [SSDTTime](https://github.com/corpnewt/SSDTTime) |
 | [SSDT-LED.aml](https://github.com/daliansky/OC-little/blob/master/10-PTSWAK%E7%BB%BC%E5%90%88%E6%89%A9%E5%B1%95%E8%A1%A5%E4%B8%81/SSDT-EXT5-TP-LED.md) | [OC-little](https://github.com/daliansky/OC-little/blob/master/10-PTSWAK%E7%BB%BC%E5%90%88%E6%89%A9%E5%B1%95%E8%A1%A5%E4%B8%81/SSDT-EXT5-TP-LED.dsl) |
-| [SSDT-PLUG.aml](https://dortania.github.io/Getting-Started-With-ACPI/Universal/plug.html) | [Prebuilt](https://github.com/dortania/Getting-Started-With-ACPI/blob/master/extra-files/compiled/SSDT-PLUG-DRTNIA.aml), [SSDTTime](https://github.com/corpnewt/SSDTTime) |
-| [SSDT-PNLF.aml](https://dortania.github.io/Getting-Started-With-ACPI/Laptops/backlight.html) | [Prebuilt](https://github.com/dortania/Getting-Started-With-ACPI/blob/master/extra-files/compiled/SSDT-PNLF.aml) |
-| [SSDT-USBX.aml](https://dortania.github.io/Getting-Started-With-ACPI/Universal/ec-fix.html) | [Prebuilt](https://github.com/dortania/OpenCore-Post-Install/blob/master/extra-files/SSDT-USBX.aml) |
-| [SSDT-XOSI.aml](https://dortania.github.io/Getting-Started-With-ACPI/Laptops/trackpad.html) | [Prebuilt](https://github.com/dortania/Getting-Started-With-ACPI/blob/master/extra-files/compiled/SSDT-XOSI.aml) |
+| [SSDT-PLUG.aml](https://dortania.github.io/Getting-Started-With-ACPI/Universal/plug.html) | [dortania](https://github.com/dortania/Getting-Started-With-ACPI/blob/master/extra-files/compiled/SSDT-PLUG-DRTNIA.aml), [SSDTTime](https://github.com/corpnewt/SSDTTime) |
+| [SSDT-PNLF.aml](https://dortania.github.io/Getting-Started-With-ACPI/Laptops/backlight.html) | [dortania](https://github.com/dortania/Getting-Started-With-ACPI/blob/master/extra-files/compiled/SSDT-PNLF.aml) |
+| [SSDT-USBX.aml](https://dortania.github.io/Getting-Started-With-ACPI/Universal/ec-fix.html) | [dortania](https://github.com/dortania/OpenCore-Post-Install/blob/master/extra-files/SSDT-USBX.aml) |
+| [SSDT-XOSI.aml](https://dortania.github.io/Getting-Started-With-ACPI/Laptops/trackpad.html) | [dortania](https://github.com/dortania/Getting-Started-With-ACPI/blob/master/extra-files/compiled/SSDT-XOSI.aml) |
 
 </details>
 
