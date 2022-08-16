@@ -17,7 +17,7 @@ As you embark on your Hackintosh journey you are encouraged to **READ** the enti
 
 This X1C7 Hackintosh project aims to be an all-in-one maintained hub for Opencore-based hackintoshes on the ThinkPad X1 Carbon 7th. In short, this X1C7-Hackintosh is very stable and is currently my daily driver. I fully recommend this project to anyone looking for a MacBook alternative.
 
-You can find a wealth of knowledge on [Reddit](https://www.reddit.com/r/hackintosh/), [TonyMacX86](https://www.tonymacx86.com) or [Google](https://www.google.com).
+You can find a wealth of knowledge on [Reddit](https://www.reddit.com/r/hackintosh/), [TonyMacX86](https://www.tonymacx86.com) or [Google](https://www.google.com/search?q=hackintosh).
 
 Should you find an error, or improve anything, be it in the config itself or in the my documentation, please consider opening an issue or a pull request to contribute.
 
