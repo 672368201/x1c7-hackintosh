@@ -207,7 +207,6 @@ Refer to [ThinkPad X1 Carbon (7th Gen) Specs](https://psref.lenovo.com/syspool/S
 
 | Component | Version |
 | --------- | ------- |
-| AudioDxe.efi | OpenCorePkg 0.8.4 |
 | OpenCanopy.efi | OpenCorePkg 0.8.4 |
 | OpenHfsPlus.efi | OpenCorePkg 0.8.4 |
 | OpenRuntime.efi | OpenCorePkg 0.8.4 |
