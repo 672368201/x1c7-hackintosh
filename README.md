@@ -5,7 +5,7 @@ An OpenCore-based bootloader to boot macOS on Lenovo ThinkPad X1 Carbon 7th Gene
 **Status: Work In Progress | Stable | Daily driver**
 
 [![macOS](https://img.shields.io/badge/macOS-Monterey-blueviolet.svg)](https://www.apple.com/macos/monterey/)
-[![OpenCore](https://img.shields.io/badge/OpenCore-0.8.3-blue.svg)](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.8.3)
+[![OpenCore](https://img.shields.io/badge/OpenCore-0.8.4-blue.svg)](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.8.4)
 [![Model](https://img.shields.io/badge/Model-20R1-red)](https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadx1/x1-carbon-gen-7/22tp2txx17g)
 
 This repository is forked from several X1C Hackintosh repositories (See **REFERENCES**).
@@ -197,7 +197,7 @@ Refer to [ThinkPad X1 Carbon (7th Gen) Specs](https://psref.lenovo.com/syspool/S
 
 | Component | Version |
 | --------- | ------- |
-| [OpenCore](https://github.com/acidanthera/OpenCorePkg) | [0.8.3](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.8.3) [(Release)](https://github.com/acidanthera/OpenCorePkg/releases/download/0.8.3/OpenCore-0.8.3-RELEASE.zip) |
+| [OpenCore](https://github.com/acidanthera/OpenCorePkg) | [0.8.4](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.8.4) [(Release)](https://github.com/acidanthera/OpenCorePkg/releases/download/0.8.4/OpenCore-0.8.4-RELEASE.zip) |
 | [macOS Monterey](https://www.apple.com/macos/monterey/) | [12.4 (21F79)](https://developer.apple.com/news/releases/?id=05162022e) |
 
 </details>
@@ -207,12 +207,12 @@ Refer to [ThinkPad X1 Carbon (7th Gen) Specs](https://psref.lenovo.com/syspool/S
 
 | Component | Version |
 | --------- | ------- |
-| AudioDxe.efi | OpenCorePkg 0.8.2 |
-| OpenCanopy.efi | OpenCorePkg 0.8.2 |
-| OpenHfsPlus.efi | OpenCorePkg 0.8.2 |
-| OpenRuntime.efi | OpenCorePkg 0.8.2 |
-| ResetNvramEntry.efi | OpenCorePkg 0.8.2 |
-| ToggleSipEntry.efi | OpenCorePkg 0.8.2 |
+| AudioDxe.efi | OpenCorePkg 0.8.4 |
+| OpenCanopy.efi | OpenCorePkg 0.8.4 |
+| OpenHfsPlus.efi | OpenCorePkg 0.8.4 |
+| OpenRuntime.efi | OpenCorePkg 0.8.4 |
+| ResetNvramEntry.efi | OpenCorePkg 0.8.4 |
+| ToggleSipEntry.efi | OpenCorePkg 0.8.4 |
 
 </details>
 
@@ -238,7 +238,7 @@ Refer to [ThinkPad X1 Carbon (7th Gen) Specs](https://psref.lenovo.com/syspool/S
 | Component | Version |
 | --------- | ------- |
 | [AirportItlwm.kext](https://github.com/OpenIntelWireless/itlwm) | [2.1.0](https://github.com/OpenIntelWireless/itlwm/releases/tag/v2.1.0) |
-| [AppleALC.kext](https://github.com/acidanthera/AppleALC) | [1.7.4](https://github.com/acidanthera/AppleALC/releases/tag/1.7.4) |
+| [AppleALC.kext](https://github.com/acidanthera/AppleALC) | [1.7.5](https://github.com/acidanthera/AppleALC/releases/tag/1.7.5) |
 | [BlueToolFixup.kext](https://github.com/acidanthera/BrcmPatchRAM) | [2.6.3](https://github.com/acidanthera/BrcmPatchRAM/releases/tag/2.6.3) |
 | [BrightnessKeys.kext](https://github.com/acidanthera/BrightnessKeys) | [1.0.3](https://github.com/acidanthera/BrightnessKeys/releases/tag/1.0.3) |
 | [CPUFriend.kext](https://github.com/acidanthera/CPUFriend) | [1.2.6](https://github.com/acidanthera/CPUFriend/releases/tag/1.2.6) |
@@ -257,7 +257,7 @@ Refer to [ThinkPad X1 Carbon (7th Gen) Specs](https://psref.lenovo.com/syspool/S
 | [VirtualSMC.kext](https://github.com/acidanthera/VirtualSMC) | [1.3.0](https://github.com/acidanthera/VirtualSMC/releases/tag/1.3.0) |
 | [VoodooI2C.kext](https://github.com/VoodooI2C/VoodooI2C) | [2.7](https://github.com/VoodooI2C/VoodooI2C/releases/tag/2.7) |
 | [VoodooI2CHID.kext](https://github.com/VoodooI2C/VoodooI2C) | [2.7](https://github.com/VoodooI2C/VoodooI2C/releases/tag/2.7) |
-| [VoodooPS2Controller.kext](https://github.com/acidanthera/VoodooPS2) | [2.2.9](https://github.com/acidanthera/VoodooPS2/releases/tag/2.2.9) |
+| [VoodooPS2Controller.kext](https://github.com/acidanthera/VoodooPS2) | [2.3.0](https://github.com/acidanthera/VoodooPS2/releases/tag/2.3.0) |
 | [WhateverGreen.kext](https://github.com/acidanthera/WhateverGreen) | [1.6.1](https://github.com/acidanthera/WhateverGreen/releases/tag/1.6.1) |
 
 </details>
