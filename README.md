@@ -4,7 +4,7 @@ An OpenCore-based bootloader to boot macOS on Lenovo ThinkPad X1 Carbon 7th Gene
 
 **Status: Work In Progress | Stable | Daily driver**
 
-[![macOS](https://img.shields.io/badge/macOS-Monterey-blueviolet.svg)](https://www.apple.com/macos/monterey/)
+[![macOS](https://img.shields.io/badge/macOS-Ventura-yellow.svg)](https://www.apple.com/macos/macos-ventura-preview/)
 [![OpenCore](https://img.shields.io/badge/OpenCore-0.8.4-blue.svg)](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.8.4)
 [![Model](https://img.shields.io/badge/Model-20R1-red)](https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadx1/x1-carbon-gen-7/22tp2txx17g)
 
@@ -198,7 +198,7 @@ Refer to [ThinkPad X1 Carbon (7th Gen) Specs](https://psref.lenovo.com/syspool/S
 | Component | Version |
 | --------- | ------- |
 | [OpenCore](https://github.com/acidanthera/OpenCorePkg) | [0.8.4](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.8.4) [(Release)](https://github.com/acidanthera/OpenCorePkg/releases/download/0.8.4/OpenCore-0.8.4-RELEASE.zip) |
-| [macOS Monterey](https://www.apple.com/macos/monterey/) | [12.4 (21F79)](https://developer.apple.com/news/releases/?id=05162022e) |
+| [macOS Ventura](https://www.apple.com/macos/macos-ventura-preview/) | [Beta 7 (22A5342f)](https://developer.apple.com/documentation/macos-release-notes/macos-13-release-notes) |
 
 </details>
 
