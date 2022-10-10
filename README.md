@@ -81,7 +81,7 @@ Should you find an error, or improve anything, be it in the config itself or in 
 > ### Miscellaneous
 | Feature | Status | Dependency | Remarks |
 | :------ | ------ | ---------- | ------- |
-| Multiboot | ⚠️ | - | No sound in Windows booting from OpenCore (See [Multiboot with OpenCore](https://dortania.github.io/OpenCore-Multiboot/) to setup multiboot) |
+| Multiboot | ✅ | - | See [Multiboot with OpenCore](https://dortania.github.io/OpenCore-Multiboot/) to setup multiboot |
 
 </details>  
 
