@@ -5,7 +5,7 @@ An OpenCore-based bootloader to boot macOS on Lenovo ThinkPad X1 Carbon 7th Gene
 **Status: Work In Progress | Stable | Daily driver**
 
 [![macOS](https://img.shields.io/badge/macOS-Ventura-yellow.svg)](https://www.apple.com/macos/macos-ventura-preview/)
-[![OpenCore](https://img.shields.io/badge/OpenCore-0.8.5-blue.svg)](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.8.5)
+[![OpenCore](https://img.shields.io/badge/OpenCore-0.8.6-blue.svg)](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.8.6)
 [![Model](https://img.shields.io/badge/Model-20R1-red)](https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadx1/x1-carbon-gen-7/22tp2txx17g)
 
 This repository is forked from several X1C Hackintosh repositories (See **REFERENCES**).
@@ -197,8 +197,8 @@ Refer to [ThinkPad X1 Carbon (7th Gen) Specs](https://psref.lenovo.com/syspool/S
 
 | Component | Version |
 | --------- | ------- |
-| [OpenCore](https://github.com/acidanthera/OpenCorePkg) | [0.8.5](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.8.5) [(Release)](https://github.com/acidanthera/OpenCorePkg/releases/download/0.8.5/OpenCore-0.8.5-RELEASE.zip) |
-| [macOS Ventura](https://www.apple.com/macos/macos-ventura-preview/) | [Beta 7 (22A5342f)](https://developer.apple.com/documentation/macos-release-notes/macos-13-release-notes) |
+| [OpenCore](https://github.com/acidanthera/OpenCorePkg) | [0.8.6](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.8.6) [(Release)](https://github.com/acidanthera/OpenCorePkg/releases/download/0.8.6/OpenCore-0.8.6-RELEASE.zip) |
+| [macOS Ventura](https://www.apple.com/macos/ventura/) | [13.0.1](https://developer.apple.com/documentation/macos-release-notes/macos-13-release-notes) |
 
 </details>
 
@@ -207,11 +207,11 @@ Refer to [ThinkPad X1 Carbon (7th Gen) Specs](https://psref.lenovo.com/syspool/S
 
 | Component | Version |
 | --------- | ------- |
-| OpenCanopy.efi | OpenCorePkg 0.8.5 |
-| OpenHfsPlus.efi | OpenCorePkg 0.8.5 |
-| OpenRuntime.efi | OpenCorePkg 0.8.5 |
-| ResetNvramEntry.efi | OpenCorePkg 0.8.5 |
-| ToggleSipEntry.efi | OpenCorePkg 0.8.5 |
+| OpenCanopy.efi | OpenCorePkg 0.8.6 |
+| OpenHfsPlus.efi | OpenCorePkg 0.8.6 |
+| OpenRuntime.efi | OpenCorePkg 0.8.6 |
+| ResetNvramEntry.efi | OpenCorePkg 0.8.6 |
+| ToggleSipEntry.efi | OpenCorePkg 0.8.6 |
 
 </details>
 
@@ -237,7 +237,7 @@ Refer to [ThinkPad X1 Carbon (7th Gen) Specs](https://psref.lenovo.com/syspool/S
 | Component | Version |
 | --------- | ------- |
 | [AirportItlwm.kext](https://github.com/OpenIntelWireless/itlwm) | [2.1.0](https://github.com/OpenIntelWireless/itlwm/releases/tag/v2.1.0) |
-| [AppleALC.kext](https://github.com/acidanthera/AppleALC) | [1.7.5](https://github.com/acidanthera/AppleALC/releases/tag/1.7.5) |
+| [AppleALC.kext](https://github.com/acidanthera/AppleALC) | [1.7.6](https://github.com/acidanthera/AppleALC/releases/tag/1.7.6) |
 | [BlueToolFixup.kext](https://github.com/acidanthera/BrcmPatchRAM) | [2.6.4](https://github.com/acidanthera/BrcmPatchRAM/releases/tag/2.6.4) |
 | [BrightnessKeys.kext](https://github.com/acidanthera/BrightnessKeys) | [1.0.3](https://github.com/acidanthera/BrightnessKeys/releases/tag/1.0.3) |
 | [CPUFriend.kext](https://github.com/acidanthera/CPUFriend) | [1.2.6](https://github.com/acidanthera/CPUFriend/releases/tag/1.2.6) |
