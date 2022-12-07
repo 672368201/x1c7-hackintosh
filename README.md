@@ -5,7 +5,7 @@ An OpenCore-based bootloader to boot macOS on Lenovo ThinkPad X1 Carbon 7th Gene
 **Status: Work In Progress | Stable | Daily driver**
 
 [![macOS](https://img.shields.io/badge/macOS-Ventura-yellow.svg)](https://www.apple.com/macos/macos-ventura-preview/)
-[![OpenCore](https://img.shields.io/badge/OpenCore-0.8.6-blue.svg)](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.8.6)
+[![OpenCore](https://img.shields.io/badge/OpenCore-0.8.7-blue.svg)](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.8.7)
 [![Model](https://img.shields.io/badge/Model-20R1-red)](https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadx1/x1-carbon-gen-7/22tp2txx17g)
 
 This repository is forked from several X1C Hackintosh repositories (See **REFERENCES**).
@@ -197,7 +197,7 @@ Refer to [ThinkPad X1 Carbon (7th Gen) Specs](https://psref.lenovo.com/syspool/S
 
 | Component | Version |
 | --------- | ------- |
-| [OpenCore](https://github.com/acidanthera/OpenCorePkg) | [0.8.6](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.8.6) [(Release)](https://github.com/acidanthera/OpenCorePkg/releases/download/0.8.6/OpenCore-0.8.6-RELEASE.zip) |
+| [OpenCore](https://github.com/acidanthera/OpenCorePkg) | [0.8.7](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.8.7) [(Release)](https://github.com/acidanthera/OpenCorePkg/releases/download/0.8.7/OpenCore-0.8.7-RELEASE.zip) |
 | [macOS Ventura](https://www.apple.com/macos/ventura/) | [13.0.1](https://developer.apple.com/documentation/macos-release-notes/macos-13-release-notes) |
 
 </details>
@@ -207,11 +207,11 @@ Refer to [ThinkPad X1 Carbon (7th Gen) Specs](https://psref.lenovo.com/syspool/S
 
 | Component | Version |
 | --------- | ------- |
-| OpenCanopy.efi | OpenCorePkg 0.8.6 |
-| OpenHfsPlus.efi | OpenCorePkg 0.8.6 |
-| OpenRuntime.efi | OpenCorePkg 0.8.6 |
-| ResetNvramEntry.efi | OpenCorePkg 0.8.6 |
-| ToggleSipEntry.efi | OpenCorePkg 0.8.6 |
+| OpenCanopy.efi | OpenCorePkg 0.8.7 |
+| OpenHfsPlus.efi | OpenCorePkg 0.8.7 |
+| OpenRuntime.efi | OpenCorePkg 0.8.7 |
+| ResetNvramEntry.efi | OpenCorePkg 0.8.7 |
+| ToggleSipEntry.efi | OpenCorePkg 0.8.7 |
 
 </details>
 
