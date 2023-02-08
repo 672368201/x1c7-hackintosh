@@ -1,6 +1,6 @@
 # OpenCore for macOS on ThinkPad X1 Carbon 7th, 20R1-0005CD
 
-An OpenCore-based bootloader to boot macOS on Lenovo ThinkPad X1 Carbon 7th Generation, Type 20R1-0005CD
+A bootloader for macOS on Lenovo ThinkPad X1 Carbon 7th Generation, Type 20R1-0005CD
 
 **Status: Work In Progress | Stable | Daily driver**
 
@@ -92,7 +92,7 @@ Should you find an error, or improve anything, be it in the config itself or in 
 | Feature | Status | Dependency | Remarks |
 | :------ | ------ | ---------- | ------- |
 | Fingerprint Reader | ❌ | - | Will never work |
-| Wireless WAN | ❌ | `DISABLED` in BIOS to save power. | Unable to investigate as I have no need and my model did not come with WWAN |
+| Wireless WAN | ❌ | `DISABLED` in BIOS to save power. | Unable to investigate as I have no need |
 | DRM | ❌ | iGPU | DRM is broken with iGPUs |
 | Internal Microphone | ❌ | - | I hope it will work one day |
 | Fan Control / Multimedia Keys | ❌ | `YogaSMC.kext` | YogaSMC.kext needs to be updated in order to work with X1C7 Hardware |
@@ -116,16 +116,6 @@ Should you find an error, or improve anything, be it in the config itself or in 
 | Continuity Markup and Sketch | ⚠️ | - | No device to test |
 
 </details> 
-
-<details>  
-<summary><strong>TO-DO ⏳</strong></summary>
-<br>
-
-| Feature | Status | Remarks |
-| :------ | ------ | ------- |
-| Battery Life | ⏳ | Between 3 and 4 hours but it still takes time to thoroughly test the battery life and compare it with Windows 11 |
-
-</details>
 
 ## Introduction
 
