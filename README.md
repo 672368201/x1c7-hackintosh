@@ -5,7 +5,7 @@ A bootloader for macOS on Lenovo ThinkPad X1 Carbon 7th Generation, Type 20R1-00
 **Status: Work In Progress | Stable | Daily driver**
 
 [![macOS](https://img.shields.io/badge/macOS-Ventura-yellow.svg)](https://www.apple.com/macos/macos-ventura-preview/)
-[![OpenCore](https://img.shields.io/badge/OpenCore-0.8.8-blue.svg)](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.8.8)
+[![OpenCore](https://img.shields.io/badge/OpenCore-0.8.9-blue.svg)](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.8.9)
 [![Model](https://img.shields.io/badge/Model-20R1-red)](https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadx1/x1-carbon-gen-7/22tp2txx17g)
 
 This repository is forked from several X1C Hackintosh repositories (See **REFERENCES**).
@@ -187,7 +187,7 @@ Refer to [ThinkPad X1 Carbon (7th Gen) Specs](https://psref.lenovo.com/syspool/S
 
 | Component | Version |
 | --------- | ------- |
-| [OpenCore](https://github.com/acidanthera/OpenCorePkg) | [0.8.8](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.8.8) [(Release)](https://github.com/acidanthera/OpenCorePkg/releases/download/0.8.8/OpenCore-0.8.8-RELEASE.zip) |
+| [OpenCore](https://github.com/acidanthera/OpenCorePkg) | [0.8.9](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.8.9) [(Release)](https://github.com/acidanthera/OpenCorePkg/releases/download/0.8.9/OpenCore-0.8.9-RELEASE.zip) |
 | [macOS Ventura](https://www.apple.com/macos/ventura/) | [13.0.1](https://developer.apple.com/documentation/macos-release-notes/macos-13-release-notes) |
 
 </details>
@@ -197,11 +197,11 @@ Refer to [ThinkPad X1 Carbon (7th Gen) Specs](https://psref.lenovo.com/syspool/S
 
 | Component | Version |
 | --------- | ------- |
-| OpenCanopy.efi | OpenCorePkg 0.8.8 |
-| OpenHfsPlus.efi | OpenCorePkg 0.8.8 |
-| OpenRuntime.efi | OpenCorePkg 0.8.8 |
-| ResetNvramEntry.efi | OpenCorePkg 0.8.8 |
-| ToggleSipEntry.efi | OpenCorePkg 0.8.8 |
+| OpenCanopy.efi | OpenCorePkg 0.8.9 |
+| OpenHfsPlus.efi | OpenCorePkg 0.8.9 |
+| OpenRuntime.efi | OpenCorePkg 0.8.9 |
+| ResetNvramEntry.efi | OpenCorePkg 0.8.9 |
+| ToggleSipEntry.efi | OpenCorePkg 0.8.9 |
 
 </details>
 
@@ -226,28 +226,28 @@ Refer to [ThinkPad X1 Carbon (7th Gen) Specs](https://psref.lenovo.com/syspool/S
 
 | Component | Version |
 | --------- | ------- |
-| [AirportItlwm.kext](https://github.com/OpenIntelWireless/itlwm) | [2.1.0](https://github.com/OpenIntelWireless/itlwm/releases/tag/v2.1.0) |
-| [AppleALC.kext](https://github.com/acidanthera/AppleALC) | [1.7.6](https://github.com/acidanthera/AppleALC/releases/tag/1.7.6) |
+| [AirportItlwm.kext](https://github.com/OpenIntelWireless/itlwm) | [2.2.0](https://github.com/OpenIntelWireless/itlwm/releases/tag/v2.2.0-alpha) |
+| [AppleALC.kext](https://github.com/acidanthera/AppleALC) | [1.7.9](https://github.com/acidanthera/AppleALC/releases/tag/1.7.9) |
 | [BlueToolFixup.kext](https://github.com/acidanthera/BrcmPatchRAM) | [2.6.4](https://github.com/acidanthera/BrcmPatchRAM/releases/tag/2.6.4) |
 | [BrightnessKeys.kext](https://github.com/acidanthera/BrightnessKeys) | [1.0.3](https://github.com/acidanthera/BrightnessKeys/releases/tag/1.0.3) |
 | [CPUFriend.kext](https://github.com/acidanthera/CPUFriend) | [1.2.6](https://github.com/acidanthera/CPUFriend/releases/tag/1.2.6) |
 | [CPUFriendDataProvider.kext](https://github.com/corpnewt/CPUFriendFriend) | 1.0.0 |
 | [ECEnabler.kext](https://github.com/1Revenger1/ECEnabler) | [1.0.3](https://github.com/1Revenger1/ECEnabler/releases/tag/1.0.3) |
-| [IntelBluetoothFirmware.kext](https://github.com/OpenIntelWireless/IntelBluetoothFirmware) | [2.1.0](https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases/tag/v2.1.0) |
-| [IntelBluetoothInjector.kext](https://github.com/OpenIntelWireless/IntelBluetoothFirmware) | [2.1.0](https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases/tag/v2.1.0) |
+| [IntelBluetoothFirmware.kext](https://github.com/OpenIntelWireless/IntelBluetoothFirmware) | [2.2.0](https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases/tag/v2.2.0) |
+| [IntelBluetoothInjector.kext](https://github.com/OpenIntelWireless/IntelBluetoothFirmware) | [2.2.0](https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases/tag/v2.2.0) |
 | [IntelMausi.kext](https://github.com/acidanthera/IntelMausi) | [1.0.8](https://github.com/acidanthera/IntelMausi/releases/tag/1.0.8) |
-| [Lilu.kext](https://github.com/acidanthera/Lilu) | [1.6.2](https://github.com/acidanthera/Lilu/releases/tag/1.6.2) |
-| [NVMeFix.kext](https://github.com/acidanthera/NVMeFix) | [1.1.0](https://github.com/acidanthera/NVMeFix/releases/tag/1.1.0) |
-| [SMCBatteryManager.kext](https://github.com/acidanthera/VirtualSMC) | [1.3.0](https://github.com/acidanthera/VirtualSMC/releases/tag/1.3.0) |
-| [SMCProcessor.kext](https://github.com/acidanthera/VirtualSMC) | [1.3.0](https://github.com/acidanthera/VirtualSMC/releases/tag/1.3.0) |
-| [SMCSuperIO.kext](https://github.com/acidanthera/VirtualSMC) | [1.3.0](https://github.com/acidanthera/VirtualSMC/releases/tag/1.3.0) |
+| [Lilu.kext](https://github.com/acidanthera/Lilu) | [1.6.3](https://github.com/acidanthera/Lilu/releases/tag/1.6.3) |
+| [NVMeFix.kext](https://github.com/acidanthera/NVMeFix) | [1.1.1](https://github.com/acidanthera/NVMeFix/releases/tag/1.1.1) |
+| [SMCBatteryManager.kext](https://github.com/acidanthera/VirtualSMC) | [1.3.1](https://github.com/acidanthera/VirtualSMC/releases/tag/1.3.1) |
+| [SMCProcessor.kext](https://github.com/acidanthera/VirtualSMC) | [1.3.1](https://github.com/acidanthera/VirtualSMC/releases/tag/1.3.1) |
+| [SMCSuperIO.kext](https://github.com/acidanthera/VirtualSMC) | [1.3.1](https://github.com/acidanthera/VirtualSMC/releases/tag/1.3.1) |
 | [USBToolBox.kext](https://github.com/USBToolBox/kext) | [1.1.1](https://github.com/USBToolBox/kext/releases/tag/1.1.1) |
 | [UTBMap.kext](https://github.com/USBToolBox/tool) | 1.1 |
-| [VirtualSMC.kext](https://github.com/acidanthera/VirtualSMC) | [1.3.0](https://github.com/acidanthera/VirtualSMC/releases/tag/1.3.0) |
+| [VirtualSMC.kext](https://github.com/acidanthera/VirtualSMC) | [1.3.1](https://github.com/acidanthera/VirtualSMC/releases/tag/1.3.1) |
 | [VoodooI2C.kext](https://github.com/VoodooI2C/VoodooI2C) | [2.7](https://github.com/VoodooI2C/VoodooI2C/releases/tag/2.7) |
 | [VoodooI2CHID.kext](https://github.com/VoodooI2C/VoodooI2C) | [2.7](https://github.com/VoodooI2C/VoodooI2C/releases/tag/2.7) |
-| [VoodooPS2Controller.kext](https://github.com/acidanthera/VoodooPS2) | [2.3.1](https://github.com/acidanthera/VoodooPS2/releases/tag/2.3.1) |
-| [WhateverGreen.kext](https://github.com/acidanthera/WhateverGreen) | [1.6.1](https://github.com/acidanthera/WhateverGreen/releases/tag/1.6.1) |
+| [VoodooPS2Controller.kext](https://github.com/acidanthera/VoodooPS2) | [2.3.3](https://github.com/acidanthera/VoodooPS2/releases/tag/2.3.3) |
+| [WhateverGreen.kext](https://github.com/acidanthera/WhateverGreen) | [1.6.4](https://github.com/acidanthera/WhateverGreen/releases/tag/1.6.4) |
 
 </details>
 
